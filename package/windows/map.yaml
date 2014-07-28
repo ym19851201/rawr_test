@@ -1,0 +1,6976 @@
+---
+フシギダネ: !ruby/object:Info
+  s: '45'
+  b: '49'
+  c: '65'
+  name: フシギダネ
+  no: '001'
+  a: '49'
+  d: '65'
+  h: '45'
+フシギソウ: !ruby/object:Info
+  s: '60'
+  b: '63'
+  c: '80'
+  name: フシギソウ
+  no: '002'
+  a: '62'
+  d: '80'
+  h: '60'
+フシギバナ: !ruby/object:Info
+  s: '80'
+  b: '83'
+  c: '100'
+  name: フシギバナ
+  no: '003'
+  a: '82'
+  d: '100'
+  h: '80'
+メガフシギバナ: !ruby/object:Info
+  s: '80'
+  b: '123'
+  c: '122'
+  name: メガフシギバナ
+  no: '003'
+  a: '100'
+  d: '120'
+  h: '80'
+ヒトカゲ: !ruby/object:Info
+  s: '65'
+  b: '43'
+  c: '60'
+  name: ヒトカゲ
+  no: '004'
+  a: '52'
+  d: '50'
+  h: '39'
+リザード: !ruby/object:Info
+  s: '80'
+  b: '58'
+  c: '80'
+  name: リザード
+  no: '005'
+  a: '64'
+  d: '65'
+  h: '58'
+リザードン: !ruby/object:Info
+  s: '100'
+  b: '78'
+  c: '109'
+  name: リザードン
+  no: '006'
+  a: '84'
+  d: '85'
+  h: '78'
+メガリザードンX: !ruby/object:Info
+  s: '100'
+  b: '111'
+  c: '130'
+  name: メガリザードンX
+  no: '006'
+  a: '130'
+  d: '85'
+  h: '78'
+メガリザードンY: !ruby/object:Info
+  s: '100'
+  b: '78'
+  c: '159'
+  name: メガリザードンY
+  no: '006'
+  a: '104'
+  d: '115'
+  h: '78'
+ゼニガメ: !ruby/object:Info
+  s: '43'
+  b: '65'
+  c: '50'
+  name: ゼニガメ
+  no: '007'
+  a: '48'
+  d: '64'
+  h: '44'
+カメール: !ruby/object:Info
+  s: '58'
+  b: '80'
+  c: '65'
+  name: カメール
+  no: 008
+  a: '63'
+  d: '80'
+  h: '59'
+カメックス: !ruby/object:Info
+  s: '78'
+  b: '100'
+  c: '85'
+  name: カメックス
+  no: 009
+  a: '83'
+  d: '105'
+  h: '79'
+メガカメックス: !ruby/object:Info
+  s: '78'
+  b: '120'
+  c: '135'
+  name: メガカメックス
+  no: 009
+  a: '103'
+  d: '115'
+  h: '79'
+キャタピー: !ruby/object:Info
+  s: '45'
+  b: '35'
+  c: '20'
+  name: キャタピー
+  no: '010'
+  a: '30'
+  d: '20'
+  h: '45'
+トランセル: !ruby/object:Info
+  s: '30'
+  b: '55'
+  c: '25'
+  name: トランセル
+  no: '011'
+  a: '20'
+  d: '25'
+  h: '50'
+バタフリー: !ruby/object:Info
+  s: '70'
+  b: '50'
+  c: '90'
+  name: バタフリー
+  no: '012'
+  a: '45'
+  d: '80'
+  h: '60'
+ビードル: !ruby/object:Info
+  s: '50'
+  b: '30'
+  c: '20'
+  name: ビードル
+  no: '013'
+  a: '35'
+  d: '20'
+  h: '40'
+コクーン: !ruby/object:Info
+  s: '35'
+  b: '50'
+  c: '25'
+  name: コクーン
+  no: '014'
+  a: '25'
+  d: '25'
+  h: '45'
+スピアー: !ruby/object:Info
+  s: '75'
+  b: '40'
+  c: '45'
+  name: スピアー
+  no: '015'
+  a: '90'
+  d: '80'
+  h: '65'
+ポッポ: !ruby/object:Info
+  s: '56'
+  b: '40'
+  c: '35'
+  name: ポッポ
+  no: '016'
+  a: '45'
+  d: '35'
+  h: '40'
+ピジョン: !ruby/object:Info
+  s: '71'
+  b: '55'
+  c: '50'
+  name: ピジョン
+  no: '017'
+  a: '60'
+  d: '50'
+  h: '63'
+ピジョット: !ruby/object:Info
+  s: '101'
+  b: '75'
+  c: '70'
+  name: ピジョット
+  no: 018
+  a: '80'
+  d: '70'
+  h: '83'
+コラッタ: !ruby/object:Info
+  s: '72'
+  b: '35'
+  c: '25'
+  name: コラッタ
+  no: 019
+  a: '56'
+  d: '35'
+  h: '30'
+ラッタ: !ruby/object:Info
+  s: '97'
+  b: '60'
+  c: '50'
+  name: ラッタ
+  no: '020'
+  a: '81'
+  d: '70'
+  h: '55'
+オニスズメ: !ruby/object:Info
+  s: '70'
+  b: '30'
+  c: '31'
+  name: オニスズメ
+  no: '021'
+  a: '60'
+  d: '31'
+  h: '40'
+オニドリル: !ruby/object:Info
+  s: '100'
+  b: '65'
+  c: '61'
+  name: オニドリル
+  no: '022'
+  a: '90'
+  d: '61'
+  h: '65'
+アーボ: !ruby/object:Info
+  s: '55'
+  b: '44'
+  c: '40'
+  name: アーボ
+  no: '023'
+  a: '60'
+  d: '54'
+  h: '35'
+アーボック: !ruby/object:Info
+  s: '80'
+  b: '69'
+  c: '65'
+  name: アーボック
+  no: '024'
+  a: '85'
+  d: '79'
+  h: '60'
+ピカチュウ: !ruby/object:Info
+  s: '90'
+  b: '40'
+  c: '50'
+  name: ピカチュウ
+  no: '025'
+  a: '55'
+  d: '50'
+  h: '35'
+ライチュウ: !ruby/object:Info
+  s: '110'
+  b: '55'
+  c: '90'
+  name: ライチュウ
+  no: '026'
+  a: '90'
+  d: '80'
+  h: '60'
+サンド: !ruby/object:Info
+  s: '40'
+  b: '85'
+  c: '20'
+  name: サンド
+  no: '027'
+  a: '75'
+  d: '30'
+  h: '50'
+サンドパン: !ruby/object:Info
+  s: '65'
+  b: '110'
+  c: '45'
+  name: サンドパン
+  no: 028
+  a: '100'
+  d: '55'
+  h: '75'
+ニドラン♀: !ruby/object:Info
+  s: '41'
+  b: '52'
+  c: '40'
+  name: ニドラン♀
+  no: 029
+  a: '47'
+  d: '40'
+  h: '55'
+ニドリーナ: !ruby/object:Info
+  s: '56'
+  b: '67'
+  c: '55'
+  name: ニドリーナ
+  no: '030'
+  a: '62'
+  d: '55'
+  h: '70'
+ニドクイン: !ruby/object:Info
+  s: '76'
+  b: '87'
+  c: '75'
+  name: ニドクイン
+  no: '031'
+  a: '92'
+  d: '85'
+  h: '90'
+ニドラン♂: !ruby/object:Info
+  s: '50'
+  b: '40'
+  c: '40'
+  name: ニドラン♂
+  no: '032'
+  a: '57'
+  d: '40'
+  h: '46'
+ニドリーノ: !ruby/object:Info
+  s: '65'
+  b: '57'
+  c: '55'
+  name: ニドリーノ
+  no: '033'
+  a: '72'
+  d: '55'
+  h: '61'
+ニドキング: !ruby/object:Info
+  s: '85'
+  b: '77'
+  c: '85'
+  name: ニドキング
+  no: '034'
+  a: '102'
+  d: '75'
+  h: '81'
+ピッピ: !ruby/object:Info
+  s: '35'
+  b: '48'
+  c: '60'
+  name: ピッピ
+  no: '035'
+  a: '45'
+  d: '65'
+  h: '70'
+ピクシー: !ruby/object:Info
+  s: '60'
+  b: '73'
+  c: '95'
+  name: ピクシー
+  no: '036'
+  a: '70'
+  d: '90'
+  h: '95'
+ロコン: !ruby/object:Info
+  s: '65'
+  b: '40'
+  c: '50'
+  name: ロコン
+  no: '037'
+  a: '41'
+  d: '65'
+  h: '38'
+キュウコン: !ruby/object:Info
+  s: '100'
+  b: '75'
+  c: '81'
+  name: キュウコン
+  no: 038
+  a: '76'
+  d: '100'
+  h: '73'
+プリン: !ruby/object:Info
+  s: '20'
+  b: '20'
+  c: '45'
+  name: プリン
+  no: 039
+  a: '45'
+  d: '25'
+  h: '115'
+プクリン: !ruby/object:Info
+  s: '45'
+  b: '45'
+  c: '85'
+  name: プクリン
+  no: '040'
+  a: '70'
+  d: '50'
+  h: '140'
+ズバット: !ruby/object:Info
+  s: '55'
+  b: '35'
+  c: '30'
+  name: ズバット
+  no: '041'
+  a: '45'
+  d: '40'
+  h: '40'
+ゴルバット: !ruby/object:Info
+  s: '90'
+  b: '70'
+  c: '65'
+  name: ゴルバット
+  no: '042'
+  a: '80'
+  d: '75'
+  h: '75'
+ナゾノクサ: !ruby/object:Info
+  s: '30'
+  b: '55'
+  c: '75'
+  name: ナゾノクサ
+  no: '043'
+  a: '50'
+  d: '65'
+  h: '45'
+クサイハナ: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '85'
+  name: クサイハナ
+  no: '044'
+  a: '65'
+  d: '75'
+  h: '60'
+ラフレシア: !ruby/object:Info
+  s: '50'
+  b: '85'
+  c: '110'
+  name: ラフレシア
+  no: '045'
+  a: '80'
+  d: '90'
+  h: '75'
+パラス: !ruby/object:Info
+  s: '25'
+  b: '55'
+  c: '45'
+  name: パラス
+  no: '046'
+  a: '70'
+  d: '55'
+  h: '35'
+パラセクト: !ruby/object:Info
+  s: '30'
+  b: '80'
+  c: '60'
+  name: パラセクト
+  no: '047'
+  a: '95'
+  d: '80'
+  h: '60'
+コンパン: !ruby/object:Info
+  s: '45'
+  b: '50'
+  c: '40'
+  name: コンパン
+  no: 048
+  a: '55'
+  d: '55'
+  h: '60'
+モルフォン: !ruby/object:Info
+  s: '90'
+  b: '60'
+  c: '90'
+  name: モルフォン
+  no: 049
+  a: '65'
+  d: '75'
+  h: '70'
+ディグダ: !ruby/object:Info
+  s: '95'
+  b: '25'
+  c: '35'
+  name: ディグダ
+  no: '050'
+  a: '55'
+  d: '45'
+  h: '10'
+ダグトリオ: !ruby/object:Info
+  s: '120'
+  b: '50'
+  c: '50'
+  name: ダグトリオ
+  no: '051'
+  a: '80'
+  d: '70'
+  h: '35'
+ニャース: !ruby/object:Info
+  s: '90'
+  b: '35'
+  c: '40'
+  name: ニャース
+  no: '052'
+  a: '45'
+  d: '40'
+  h: '40'
+ペルシアン: !ruby/object:Info
+  s: '115'
+  b: '60'
+  c: '65'
+  name: ペルシアン
+  no: '053'
+  a: '70'
+  d: '65'
+  h: '65'
+コダック: !ruby/object:Info
+  s: '55'
+  b: '48'
+  c: '65'
+  name: コダック
+  no: '054'
+  a: '52'
+  d: '50'
+  h: '50'
+ゴルダック: !ruby/object:Info
+  s: '85'
+  b: '78'
+  c: '95'
+  name: ゴルダック
+  no: '055'
+  a: '82'
+  d: '80'
+  h: '80'
+マンキー: !ruby/object:Info
+  s: '70'
+  b: '35'
+  c: '35'
+  name: マンキー
+  no: '056'
+  a: '80'
+  d: '45'
+  h: '40'
+オコリザル: !ruby/object:Info
+  s: '95'
+  b: '60'
+  c: '60'
+  name: オコリザル
+  no: '057'
+  a: '105'
+  d: '70'
+  h: '65'
+ガーディ: !ruby/object:Info
+  s: '60'
+  b: '45'
+  c: '70'
+  name: ガーディ
+  no: 058
+  a: '70'
+  d: '50'
+  h: '55'
+ウインディ: !ruby/object:Info
+  s: '95'
+  b: '80'
+  c: '100'
+  name: ウインディ
+  no: 059
+  a: '110'
+  d: '80'
+  h: '90'
+ニョロモ: !ruby/object:Info
+  s: '90'
+  b: '40'
+  c: '40'
+  name: ニョロモ
+  no: '060'
+  a: '50'
+  d: '40'
+  h: '40'
+ニョロゾ: !ruby/object:Info
+  s: '90'
+  b: '65'
+  c: '50'
+  name: ニョロゾ
+  no: '061'
+  a: '65'
+  d: '50'
+  h: '65'
+ニョロボン: !ruby/object:Info
+  s: '70'
+  b: '95'
+  c: '70'
+  name: ニョロボン
+  no: '062'
+  a: '95'
+  d: '90'
+  h: '90'
+ケーシィ: !ruby/object:Info
+  s: '90'
+  b: '15'
+  c: '105'
+  name: ケーシィ
+  no: '063'
+  a: '20'
+  d: '55'
+  h: '25'
+ユンゲラー: !ruby/object:Info
+  s: '105'
+  b: '30'
+  c: '120'
+  name: ユンゲラー
+  no: '064'
+  a: '35'
+  d: '70'
+  h: '40'
+フーディン: !ruby/object:Info
+  s: '120'
+  b: '45'
+  c: '135'
+  name: フーディン
+  no: '065'
+  a: '50'
+  d: '95'
+  h: '55'
+メガフーディン: !ruby/object:Info
+  s: '150'
+  b: '65'
+  c: '175'
+  name: メガフーディン
+  no: '065'
+  a: '50'
+  d: '95'
+  h: '55'
+ワンリキー: !ruby/object:Info
+  s: '35'
+  b: '50'
+  c: '35'
+  name: ワンリキー
+  no: '066'
+  a: '80'
+  d: '35'
+  h: '70'
+ゴーリキー: !ruby/object:Info
+  s: '45'
+  b: '70'
+  c: '50'
+  name: ゴーリキー
+  no: '067'
+  a: '100'
+  d: '60'
+  h: '80'
+カイリキー: !ruby/object:Info
+  s: '55'
+  b: '80'
+  c: '65'
+  name: カイリキー
+  no: 068
+  a: '130'
+  d: '85'
+  h: '90'
+マダツボミ: !ruby/object:Info
+  s: '40'
+  b: '35'
+  c: '70'
+  name: マダツボミ
+  no: 069
+  a: '75'
+  d: '30'
+  h: '50'
+ウツドン: !ruby/object:Info
+  s: '55'
+  b: '50'
+  c: '85'
+  name: ウツドン
+  no: '070'
+  a: '90'
+  d: '45'
+  h: '65'
+ウツボット: !ruby/object:Info
+  s: '70'
+  b: '65'
+  c: '100'
+  name: ウツボット
+  no: '071'
+  a: '105'
+  d: '70'
+  h: '80'
+メノクラゲ: !ruby/object:Info
+  s: '70'
+  b: '35'
+  c: '50'
+  name: メノクラゲ
+  no: '072'
+  a: '40'
+  d: '100'
+  h: '40'
+ドククラゲ: !ruby/object:Info
+  s: '100'
+  b: '65'
+  c: '80'
+  name: ドククラゲ
+  no: '073'
+  a: '70'
+  d: '120'
+  h: '80'
+イシツブテ: !ruby/object:Info
+  s: '20'
+  b: '100'
+  c: '30'
+  name: イシツブテ
+  no: '074'
+  a: '80'
+  d: '30'
+  h: '40'
+ゴローン: !ruby/object:Info
+  s: '35'
+  b: '115'
+  c: '45'
+  name: ゴローン
+  no: '075'
+  a: '95'
+  d: '45'
+  h: '55'
+ゴローニャ: !ruby/object:Info
+  s: '45'
+  b: '130'
+  c: '55'
+  name: ゴローニャ
+  no: '076'
+  a: '120'
+  d: '65'
+  h: '80'
+ポニータ: !ruby/object:Info
+  s: '90'
+  b: '55'
+  c: '65'
+  name: ポニータ
+  no: '077'
+  a: '85'
+  d: '65'
+  h: '50'
+ギャロップ: !ruby/object:Info
+  s: '105'
+  b: '70'
+  c: '80'
+  name: ギャロップ
+  no: 078
+  a: '100'
+  d: '80'
+  h: '65'
+ヤドン: !ruby/object:Info
+  s: '15'
+  b: '65'
+  c: '40'
+  name: ヤドン
+  no: 079
+  a: '65'
+  d: '40'
+  h: '90'
+ヤドラン: !ruby/object:Info
+  s: '30'
+  b: '110'
+  c: '100'
+  name: ヤドラン
+  no: 080
+  a: '75'
+  d: '80'
+  h: '95'
+コイル: !ruby/object:Info
+  s: '45'
+  b: '70'
+  c: '95'
+  name: コイル
+  no: 081
+  a: '35'
+  d: '55'
+  h: '25'
+レアコイル: !ruby/object:Info
+  s: '70'
+  b: '95'
+  c: '120'
+  name: レアコイル
+  no: 082
+  a: '60'
+  d: '70'
+  h: '50'
+カモネギ: !ruby/object:Info
+  s: '60'
+  b: '55'
+  c: '58'
+  name: カモネギ
+  no: 083
+  a: '65'
+  d: '62'
+  h: '52'
+ドードー: !ruby/object:Info
+  s: '75'
+  b: '45'
+  c: '35'
+  name: ドードー
+  no: 084
+  a: '85'
+  d: '35'
+  h: '35'
+ドードリオ: !ruby/object:Info
+  s: '100'
+  b: '70'
+  c: '60'
+  name: ドードリオ
+  no: 085
+  a: '110'
+  d: '60'
+  h: '60'
+パウワウ: !ruby/object:Info
+  s: '45'
+  b: '55'
+  c: '45'
+  name: パウワウ
+  no: 086
+  a: '45'
+  d: '70'
+  h: '65'
+ジュゴン: !ruby/object:Info
+  s: '70'
+  b: '80'
+  c: '70'
+  name: ジュゴン
+  no: 087
+  a: '70'
+  d: '95'
+  h: '90'
+ベトベター: !ruby/object:Info
+  s: '25'
+  b: '50'
+  c: '40'
+  name: ベトベター
+  no: 088
+  a: '80'
+  d: '50'
+  h: '80'
+ベトベトン: !ruby/object:Info
+  s: '50'
+  b: '75'
+  c: '65'
+  name: ベトベトン
+  no: 089
+  a: '105'
+  d: '100'
+  h: '105'
+シェルダー: !ruby/object:Info
+  s: '40'
+  b: '100'
+  c: '45'
+  name: シェルダー
+  no: 090
+  a: '65'
+  d: '25'
+  h: '30'
+パルシェン: !ruby/object:Info
+  s: '70'
+  b: '180'
+  c: '85'
+  name: パルシェン
+  no: 091
+  a: '95'
+  d: '45'
+  h: '50'
+ゴース: !ruby/object:Info
+  s: '80'
+  b: '30'
+  c: '100'
+  name: ゴース
+  no: 092
+  a: '35'
+  d: '35'
+  h: '30'
+ゴースト: !ruby/object:Info
+  s: '95'
+  b: '45'
+  c: '115'
+  name: ゴースト
+  no: 093
+  a: '50'
+  d: '55'
+  h: '45'
+ゲンガー: !ruby/object:Info
+  s: '110'
+  b: '60'
+  c: '130'
+  name: ゲンガー
+  no: 094
+  a: '65'
+  d: '75'
+  h: '60'
+メガゲンガー: !ruby/object:Info
+  s: '130'
+  b: '80'
+  c: '170'
+  name: メガゲンガー
+  no: 094
+  a: '65'
+  d: '95'
+  h: '60'
+イワーク: !ruby/object:Info
+  s: '70'
+  b: '160'
+  c: '30'
+  name: イワーク
+  no: 095
+  a: '45'
+  d: '45'
+  h: '35'
+スリープ: !ruby/object:Info
+  s: '42'
+  b: '45'
+  c: '43'
+  name: スリープ
+  no: 096
+  a: '48'
+  d: '90'
+  h: '60'
+スリーパー: !ruby/object:Info
+  s: '67'
+  b: '70'
+  c: '73'
+  name: スリーパー
+  no: 097
+  a: '73'
+  d: '115'
+  h: '85'
+クラブ: !ruby/object:Info
+  s: '50'
+  b: '90'
+  c: '25'
+  name: クラブ
+  no: 098
+  a: '105'
+  d: '25'
+  h: '30'
+キングラー: !ruby/object:Info
+  s: '75'
+  b: '115'
+  c: '50'
+  name: キングラー
+  no: 099
+  a: '130'
+  d: '50'
+  h: '55'
+ビリリダマ: !ruby/object:Info
+  s: '100'
+  b: '50'
+  c: '55'
+  name: ビリリダマ
+  no: '100'
+  a: '30'
+  d: '55'
+  h: '40'
+マルマイン: !ruby/object:Info
+  s: '140'
+  b: '70'
+  c: '80'
+  name: マルマイン
+  no: '101'
+  a: '50'
+  d: '80'
+  h: '60'
+タマタマ: !ruby/object:Info
+  s: '40'
+  b: '80'
+  c: '60'
+  name: タマタマ
+  no: '102'
+  a: '40'
+  d: '45'
+  h: '60'
+ナッシー: !ruby/object:Info
+  s: '55'
+  b: '85'
+  c: '125'
+  name: ナッシー
+  no: '103'
+  a: '95'
+  d: '65'
+  h: '95'
+カラカラ: !ruby/object:Info
+  s: '35'
+  b: '95'
+  c: '40'
+  name: カラカラ
+  no: '104'
+  a: '50'
+  d: '50'
+  h: '50'
+ガラガラ: !ruby/object:Info
+  s: '45'
+  b: '110'
+  c: '50'
+  name: ガラガラ
+  no: '105'
+  a: '80'
+  d: '80'
+  h: '60'
+サワムラー: !ruby/object:Info
+  s: '87'
+  b: '53'
+  c: '35'
+  name: サワムラー
+  no: '106'
+  a: '120'
+  d: '110'
+  h: '50'
+エビワラー: !ruby/object:Info
+  s: '76'
+  b: '79'
+  c: '35'
+  name: エビワラー
+  no: '107'
+  a: '105'
+  d: '110'
+  h: '50'
+ベロリンガ: !ruby/object:Info
+  s: '30'
+  b: '75'
+  c: '60'
+  name: ベロリンガ
+  no: '108'
+  a: '55'
+  d: '75'
+  h: '90'
+ドガース: !ruby/object:Info
+  s: '35'
+  b: '95'
+  c: '60'
+  name: ドガース
+  no: '109'
+  a: '65'
+  d: '45'
+  h: '40'
+マタドガス: !ruby/object:Info
+  s: '60'
+  b: '120'
+  c: '85'
+  name: マタドガス
+  no: '110'
+  a: '90'
+  d: '70'
+  h: '65'
+サイホーン: !ruby/object:Info
+  s: '25'
+  b: '95'
+  c: '30'
+  name: サイホーン
+  no: '111'
+  a: '85'
+  d: '30'
+  h: '80'
+サイドン: !ruby/object:Info
+  s: '40'
+  b: '120'
+  c: '45'
+  name: サイドン
+  no: '112'
+  a: '130'
+  d: '45'
+  h: '105'
+ラッキー: !ruby/object:Info
+  s: '50'
+  b: '5'
+  c: '35'
+  name: ラッキー
+  no: '113'
+  a: '5'
+  d: '105'
+  h: '250'
+モンジャラ: !ruby/object:Info
+  s: '60'
+  b: '115'
+  c: '100'
+  name: モンジャラ
+  no: '114'
+  a: '55'
+  d: '40'
+  h: '65'
+ガルーラ: !ruby/object:Info
+  s: '90'
+  b: '80'
+  c: '40'
+  name: ガルーラ
+  no: '115'
+  a: '95'
+  d: '80'
+  h: '105'
+メガガルーラ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '60'
+  name: メガガルーラ
+  no: '115'
+  a: '125'
+  d: '100'
+  h: '105'
+タッツー: !ruby/object:Info
+  s: '60'
+  b: '70'
+  c: '70'
+  name: タッツー
+  no: '116'
+  a: '40'
+  d: '25'
+  h: '30'
+シードラ: !ruby/object:Info
+  s: '85'
+  b: '95'
+  c: '95'
+  name: シードラ
+  no: '117'
+  a: '65'
+  d: '45'
+  h: '55'
+トサキント: !ruby/object:Info
+  s: '63'
+  b: '60'
+  c: '35'
+  name: トサキント
+  no: '118'
+  a: '67'
+  d: '50'
+  h: '45'
+アズマオウ: !ruby/object:Info
+  s: '68'
+  b: '65'
+  c: '65'
+  name: アズマオウ
+  no: '119'
+  a: '92'
+  d: '80'
+  h: '80'
+ヒトデマン: !ruby/object:Info
+  s: '85'
+  b: '55'
+  c: '70'
+  name: ヒトデマン
+  no: '120'
+  a: '45'
+  d: '55'
+  h: '30'
+スターミー: !ruby/object:Info
+  s: '115'
+  b: '85'
+  c: '100'
+  name: スターミー
+  no: '121'
+  a: '75'
+  d: '85'
+  h: '60'
+バリヤード: !ruby/object:Info
+  s: '90'
+  b: '65'
+  c: '100'
+  name: バリヤード
+  no: '122'
+  a: '45'
+  d: '120'
+  h: '40'
+ストライク: !ruby/object:Info
+  s: '105'
+  b: '80'
+  c: '55'
+  name: ストライク
+  no: '123'
+  a: '110'
+  d: '80'
+  h: '70'
+ルージュラ: !ruby/object:Info
+  s: '95'
+  b: '35'
+  c: '115'
+  name: ルージュラ
+  no: '124'
+  a: '50'
+  d: '95'
+  h: '65'
+エレブー: !ruby/object:Info
+  s: '105'
+  b: '57'
+  c: '95'
+  name: エレブー
+  no: '125'
+  a: '83'
+  d: '85'
+  h: '65'
+ブーバー: !ruby/object:Info
+  s: '93'
+  b: '57'
+  c: '100'
+  name: ブーバー
+  no: '126'
+  a: '95'
+  d: '85'
+  h: '65'
+カイロス: !ruby/object:Info
+  s: '85'
+  b: '100'
+  c: '55'
+  name: カイロス
+  no: '127'
+  a: '125'
+  d: '70'
+  h: '65'
+メガカイロス: !ruby/object:Info
+  s: '105'
+  b: '120'
+  c: '65'
+  name: メガカイロス
+  no: '127'
+  a: '155'
+  d: '90'
+  h: '65'
+ケンタロス: !ruby/object:Info
+  s: '110'
+  b: '95'
+  c: '40'
+  name: ケンタロス
+  no: '128'
+  a: '100'
+  d: '70'
+  h: '75'
+コイキング: !ruby/object:Info
+  s: '80'
+  b: '55'
+  c: '15'
+  name: コイキング
+  no: '129'
+  a: '10'
+  d: '20'
+  h: '20'
+ギャラドス: !ruby/object:Info
+  s: '81'
+  b: '79'
+  c: '60'
+  name: ギャラドス
+  no: '130'
+  a: '125'
+  d: '100'
+  h: '95'
+メガギャラドス: !ruby/object:Info
+  s: '81'
+  b: '109'
+  c: '70'
+  name: メガギャラドス
+  no: '130'
+  a: '155'
+  d: '130'
+  h: '95'
+ラプラス: !ruby/object:Info
+  s: '60'
+  b: '80'
+  c: '85'
+  name: ラプラス
+  no: '131'
+  a: '85'
+  d: '95'
+  h: '130'
+メタモン: !ruby/object:Info
+  s: '48'
+  b: '48'
+  c: '48'
+  name: メタモン
+  no: '132'
+  a: '48'
+  d: '48'
+  h: '48'
+イーブイ: !ruby/object:Info
+  s: '55'
+  b: '50'
+  c: '45'
+  name: イーブイ
+  no: '133'
+  a: '55'
+  d: '65'
+  h: '55'
+シャワーズ: !ruby/object:Info
+  s: '65'
+  b: '60'
+  c: '110'
+  name: シャワーズ
+  no: '134'
+  a: '65'
+  d: '95'
+  h: '130'
+サンダース: !ruby/object:Info
+  s: '130'
+  b: '60'
+  c: '110'
+  name: サンダース
+  no: '135'
+  a: '65'
+  d: '95'
+  h: '65'
+ブースター: !ruby/object:Info
+  s: '65'
+  b: '60'
+  c: '95'
+  name: ブースター
+  no: '136'
+  a: '130'
+  d: '110'
+  h: '65'
+ポリゴン: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '85'
+  name: ポリゴン
+  no: '137'
+  a: '60'
+  d: '75'
+  h: '65'
+オムナイト: !ruby/object:Info
+  s: '35'
+  b: '100'
+  c: '90'
+  name: オムナイト
+  no: '138'
+  a: '40'
+  d: '55'
+  h: '35'
+オムスター: !ruby/object:Info
+  s: '55'
+  b: '125'
+  c: '115'
+  name: オムスター
+  no: '139'
+  a: '60'
+  d: '70'
+  h: '70'
+カブト: !ruby/object:Info
+  s: '55'
+  b: '90'
+  c: '55'
+  name: カブト
+  no: '140'
+  a: '80'
+  d: '45'
+  h: '30'
+カブトプス: !ruby/object:Info
+  s: '80'
+  b: '105'
+  c: '65'
+  name: カブトプス
+  no: '141'
+  a: '115'
+  d: '70'
+  h: '60'
+プテラ: !ruby/object:Info
+  s: '130'
+  b: '65'
+  c: '60'
+  name: プテラ
+  no: '142'
+  a: '105'
+  d: '75'
+  h: '80'
+メガプテラ: !ruby/object:Info
+  s: '150'
+  b: '85'
+  c: '70'
+  name: メガプテラ
+  no: '142'
+  a: '135'
+  d: '95'
+  h: '80'
+カビゴン: !ruby/object:Info
+  s: '30'
+  b: '65'
+  c: '65'
+  name: カビゴン
+  no: '143'
+  a: '110'
+  d: '110'
+  h: '160'
+フリーザー: !ruby/object:Info
+  s: '85'
+  b: '100'
+  c: '95'
+  name: フリーザー
+  no: '144'
+  a: '85'
+  d: '125'
+  h: '90'
+サンダー: !ruby/object:Info
+  s: '100'
+  b: '85'
+  c: '125'
+  name: サンダー
+  no: '145'
+  a: '90'
+  d: '90'
+  h: '90'
+ファイヤー: !ruby/object:Info
+  s: '90'
+  b: '90'
+  c: '125'
+  name: ファイヤー
+  no: '146'
+  a: '100'
+  d: '85'
+  h: '90'
+ミニリュウ: !ruby/object:Info
+  s: '50'
+  b: '45'
+  c: '50'
+  name: ミニリュウ
+  no: '147'
+  a: '64'
+  d: '50'
+  h: '41'
+ハクリュー: !ruby/object:Info
+  s: '70'
+  b: '65'
+  c: '70'
+  name: ハクリュー
+  no: '148'
+  a: '84'
+  d: '70'
+  h: '61'
+カイリュー: !ruby/object:Info
+  s: '80'
+  b: '95'
+  c: '100'
+  name: カイリュー
+  no: '149'
+  a: '134'
+  d: '100'
+  h: '91'
+ミュウツー: !ruby/object:Info
+  s: '130'
+  b: '90'
+  c: '154'
+  name: ミュウツー
+  no: '150'
+  a: '110'
+  d: '90'
+  h: '106'
+メガミュウツーX: !ruby/object:Info
+  s: '130'
+  b: '100'
+  c: '154'
+  name: メガミュウツーX
+  no: '150'
+  a: '190'
+  d: '100'
+  h: '106'
+メガミュウツーY: !ruby/object:Info
+  s: '140'
+  b: '70'
+  c: '194'
+  name: メガミュウツーY
+  no: '150'
+  a: '150'
+  d: '120'
+  h: '106'
+ミュウ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: ミュウ
+  no: '151'
+  a: '100'
+  d: '100'
+  h: '100'
+チコリータ: !ruby/object:Info
+  s: '45'
+  b: '65'
+  c: '49'
+  name: チコリータ
+  no: '152'
+  a: '49'
+  d: '65'
+  h: '45'
+ベイリーフ: !ruby/object:Info
+  s: '60'
+  b: '80'
+  c: '63'
+  name: ベイリーフ
+  no: '153'
+  a: '62'
+  d: '80'
+  h: '60'
+メガニウム: !ruby/object:Info
+  s: '80'
+  b: '100'
+  c: '83'
+  name: メガニウム
+  no: '154'
+  a: '82'
+  d: '100'
+  h: '80'
+ヒノアラシ: !ruby/object:Info
+  s: '65'
+  b: '43'
+  c: '60'
+  name: ヒノアラシ
+  no: '155'
+  a: '52'
+  d: '50'
+  h: '39'
+マグマラシ: !ruby/object:Info
+  s: '80'
+  b: '58'
+  c: '80'
+  name: マグマラシ
+  no: '156'
+  a: '64'
+  d: '65'
+  h: '58'
+バクフーン: !ruby/object:Info
+  s: '100'
+  b: '78'
+  c: '109'
+  name: バクフーン
+  no: '157'
+  a: '84'
+  d: '85'
+  h: '78'
+ワニノコ: !ruby/object:Info
+  s: '43'
+  b: '64'
+  c: '44'
+  name: ワニノコ
+  no: '158'
+  a: '65'
+  d: '48'
+  h: '50'
+アリゲイツ: !ruby/object:Info
+  s: '58'
+  b: '80'
+  c: '59'
+  name: アリゲイツ
+  no: '159'
+  a: '80'
+  d: '63'
+  h: '65'
+オーダイル: !ruby/object:Info
+  s: '78'
+  b: '100'
+  c: '79'
+  name: オーダイル
+  no: '160'
+  a: '105'
+  d: '83'
+  h: '85'
+オタチ: !ruby/object:Info
+  s: '20'
+  b: '34'
+  c: '35'
+  name: オタチ
+  no: '161'
+  a: '46'
+  d: '45'
+  h: '35'
+オオタチ: !ruby/object:Info
+  s: '90'
+  b: '64'
+  c: '45'
+  name: オオタチ
+  no: '162'
+  a: '76'
+  d: '55'
+  h: '85'
+ホーホー: !ruby/object:Info
+  s: '50'
+  b: '30'
+  c: '36'
+  name: ホーホー
+  no: '163'
+  a: '30'
+  d: '56'
+  h: '60'
+ヨルノズク: !ruby/object:Info
+  s: '70'
+  b: '50'
+  c: '76'
+  name: ヨルノズク
+  no: '164'
+  a: '50'
+  d: '96'
+  h: '100'
+レディバ: !ruby/object:Info
+  s: '55'
+  b: '30'
+  c: '40'
+  name: レディバ
+  no: '165'
+  a: '20'
+  d: '80'
+  h: '40'
+レディアン: !ruby/object:Info
+  s: '85'
+  b: '50'
+  c: '55'
+  name: レディアン
+  no: '166'
+  a: '35'
+  d: '110'
+  h: '55'
+イトマル: !ruby/object:Info
+  s: '30'
+  b: '40'
+  c: '40'
+  name: イトマル
+  no: '167'
+  a: '60'
+  d: '40'
+  h: '40'
+アリアドス: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '60'
+  name: アリアドス
+  no: '168'
+  a: '90'
+  d: '60'
+  h: '70'
+クロバット: !ruby/object:Info
+  s: '130'
+  b: '80'
+  c: '70'
+  name: クロバット
+  no: '169'
+  a: '90'
+  d: '80'
+  h: '85'
+チョンチー: !ruby/object:Info
+  s: '67'
+  b: '38'
+  c: '56'
+  name: チョンチー
+  no: '170'
+  a: '38'
+  d: '56'
+  h: '75'
+ランターン: !ruby/object:Info
+  s: '67'
+  b: '58'
+  c: '76'
+  name: ランターン
+  no: '171'
+  a: '58'
+  d: '76'
+  h: '125'
+ピチュー: !ruby/object:Info
+  s: '60'
+  b: '15'
+  c: '35'
+  name: ピチュー
+  no: '172'
+  a: '40'
+  d: '35'
+  h: '20'
+ピィ: !ruby/object:Info
+  s: '15'
+  b: '28'
+  c: '45'
+  name: ピィ
+  no: '173'
+  a: '25'
+  d: '55'
+  h: '50'
+ププリン: !ruby/object:Info
+  s: '15'
+  b: '15'
+  c: '40'
+  name: ププリン
+  no: '174'
+  a: '30'
+  d: '20'
+  h: '90'
+トゲピー: !ruby/object:Info
+  s: '20'
+  b: '65'
+  c: '40'
+  name: トゲピー
+  no: '175'
+  a: '20'
+  d: '65'
+  h: '35'
+トゲチック: !ruby/object:Info
+  s: '40'
+  b: '85'
+  c: '80'
+  name: トゲチック
+  no: '176'
+  a: '40'
+  d: '105'
+  h: '55'
+ネイティ: !ruby/object:Info
+  s: '70'
+  b: '45'
+  c: '70'
+  name: ネイティ
+  no: '177'
+  a: '50'
+  d: '45'
+  h: '40'
+ネイティオ: !ruby/object:Info
+  s: '95'
+  b: '70'
+  c: '95'
+  name: ネイティオ
+  no: '178'
+  a: '75'
+  d: '70'
+  h: '65'
+メリープ: !ruby/object:Info
+  s: '35'
+  b: '40'
+  c: '65'
+  name: メリープ
+  no: '179'
+  a: '40'
+  d: '45'
+  h: '55'
+モココ: !ruby/object:Info
+  s: '45'
+  b: '55'
+  c: '80'
+  name: モココ
+  no: '180'
+  a: '55'
+  d: '60'
+  h: '70'
+デンリュウ: !ruby/object:Info
+  s: '55'
+  b: '85'
+  c: '115'
+  name: デンリュウ
+  no: '181'
+  a: '75'
+  d: '90'
+  h: '90'
+メガデンリュウ: !ruby/object:Info
+  s: '45'
+  b: '105'
+  c: '165'
+  name: メガデンリュウ
+  no: '181'
+  a: '95'
+  d: '110'
+  h: '90'
+キレイハナ: !ruby/object:Info
+  s: '50'
+  b: '95'
+  c: '90'
+  name: キレイハナ
+  no: '182'
+  a: '80'
+  d: '100'
+  h: '75'
+マリル: !ruby/object:Info
+  s: '40'
+  b: '50'
+  c: '20'
+  name: マリル
+  no: '183'
+  a: '20'
+  d: '50'
+  h: '70'
+マリルリ: !ruby/object:Info
+  s: '50'
+  b: '80'
+  c: '60'
+  name: マリルリ
+  no: '184'
+  a: '50'
+  d: '80'
+  h: '100'
+ウソッキー: !ruby/object:Info
+  s: '30'
+  b: '115'
+  c: '30'
+  name: ウソッキー
+  no: '185'
+  a: '100'
+  d: '65'
+  h: '70'
+ニョロトノ: !ruby/object:Info
+  s: '70'
+  b: '75'
+  c: '90'
+  name: ニョロトノ
+  no: '186'
+  a: '75'
+  d: '100'
+  h: '90'
+ハネッコ: !ruby/object:Info
+  s: '50'
+  b: '40'
+  c: '35'
+  name: ハネッコ
+  no: '187'
+  a: '35'
+  d: '55'
+  h: '35'
+ポポッコ: !ruby/object:Info
+  s: '80'
+  b: '50'
+  c: '45'
+  name: ポポッコ
+  no: '188'
+  a: '45'
+  d: '65'
+  h: '55'
+ワタッコ: !ruby/object:Info
+  s: '110'
+  b: '70'
+  c: '55'
+  name: ワタッコ
+  no: '189'
+  a: '55'
+  d: '95'
+  h: '75'
+エイパム: !ruby/object:Info
+  s: '85'
+  b: '55'
+  c: '40'
+  name: エイパム
+  no: '190'
+  a: '70'
+  d: '55'
+  h: '55'
+ヒマナッツ: !ruby/object:Info
+  s: '30'
+  b: '30'
+  c: '30'
+  name: ヒマナッツ
+  no: '191'
+  a: '30'
+  d: '30'
+  h: '30'
+キマワリ: !ruby/object:Info
+  s: '30'
+  b: '55'
+  c: '105'
+  name: キマワリ
+  no: '192'
+  a: '75'
+  d: '85'
+  h: '75'
+ヤンヤンマ: !ruby/object:Info
+  s: '95'
+  b: '45'
+  c: '75'
+  name: ヤンヤンマ
+  no: '193'
+  a: '65'
+  d: '45'
+  h: '65'
+ウパー: !ruby/object:Info
+  s: '15'
+  b: '45'
+  c: '25'
+  name: ウパー
+  no: '194'
+  a: '45'
+  d: '25'
+  h: '55'
+ヌオー: !ruby/object:Info
+  s: '35'
+  b: '85'
+  c: '65'
+  name: ヌオー
+  no: '195'
+  a: '85'
+  d: '65'
+  h: '95'
+エーフィ: !ruby/object:Info
+  s: '110'
+  b: '60'
+  c: '130'
+  name: エーフィ
+  no: '196'
+  a: '65'
+  d: '95'
+  h: '65'
+ブラッキー: !ruby/object:Info
+  s: '65'
+  b: '110'
+  c: '60'
+  name: ブラッキー
+  no: '197'
+  a: '65'
+  d: '130'
+  h: '95'
+ヤミカラス: !ruby/object:Info
+  s: '91'
+  b: '42'
+  c: '85'
+  name: ヤミカラス
+  no: '198'
+  a: '85'
+  d: '42'
+  h: '60'
+ヤドキング: !ruby/object:Info
+  s: '30'
+  b: '80'
+  c: '100'
+  name: ヤドキング
+  no: '199'
+  a: '75'
+  d: '110'
+  h: '95'
+ムウマ: !ruby/object:Info
+  s: '85'
+  b: '60'
+  c: '85'
+  name: ムウマ
+  no: '200'
+  a: '60'
+  d: '85'
+  h: '60'
+アンノーン: !ruby/object:Info
+  s: '48'
+  b: '48'
+  c: '72'
+  name: アンノーン
+  no: '201'
+  a: '72'
+  d: '48'
+  h: '48'
+ソーナンス: !ruby/object:Info
+  s: '33'
+  b: '58'
+  c: '33'
+  name: ソーナンス
+  no: '202'
+  a: '33'
+  d: '58'
+  h: '190'
+キリンリキ: !ruby/object:Info
+  s: '85'
+  b: '65'
+  c: '90'
+  name: キリンリキ
+  no: '203'
+  a: '80'
+  d: '65'
+  h: '70'
+クヌギダマ: !ruby/object:Info
+  s: '15'
+  b: '90'
+  c: '35'
+  name: クヌギダマ
+  no: '204'
+  a: '65'
+  d: '35'
+  h: '50'
+フォレトス: !ruby/object:Info
+  s: '40'
+  b: '140'
+  c: '60'
+  name: フォレトス
+  no: '205'
+  a: '90'
+  d: '60'
+  h: '75'
+ノコッチ: !ruby/object:Info
+  s: '45'
+  b: '70'
+  c: '65'
+  name: ノコッチ
+  no: '206'
+  a: '70'
+  d: '65'
+  h: '100'
+グライガー: !ruby/object:Info
+  s: '85'
+  b: '105'
+  c: '35'
+  name: グライガー
+  no: '207'
+  a: '75'
+  d: '65'
+  h: '65'
+ハガネール: !ruby/object:Info
+  s: '30'
+  b: '200'
+  c: '55'
+  name: ハガネール
+  no: '208'
+  a: '85'
+  d: '65'
+  h: '75'
+ブルー: !ruby/object:Info
+  s: '30'
+  b: '50'
+  c: '40'
+  name: ブルー
+  no: '209'
+  a: '80'
+  d: '40'
+  h: '60'
+グランブル: !ruby/object:Info
+  s: '45'
+  b: '75'
+  c: '60'
+  name: グランブル
+  no: '210'
+  a: '120'
+  d: '60'
+  h: '90'
+ハリーセン: !ruby/object:Info
+  s: '85'
+  b: '75'
+  c: '55'
+  name: ハリーセン
+  no: '211'
+  a: '95'
+  d: '55'
+  h: '65'
+ハッサム: !ruby/object:Info
+  s: '65'
+  b: '100'
+  c: '55'
+  name: ハッサム
+  no: '212'
+  a: '130'
+  d: '80'
+  h: '70'
+メガハッサム: !ruby/object:Info
+  s: '75'
+  b: '140'
+  c: '65'
+  name: メガハッサム
+  no: '212'
+  a: '150'
+  d: '100'
+  h: '70'
+ツボツボ: !ruby/object:Info
+  s: '5'
+  b: '230'
+  c: '10'
+  name: ツボツボ
+  no: '213'
+  a: '10'
+  d: '230'
+  h: '20'
+ヘラクロス: !ruby/object:Info
+  s: '85'
+  b: '75'
+  c: '40'
+  name: ヘラクロス
+  no: '214'
+  a: '125'
+  d: '95'
+  h: '80'
+メガヘラクロス: !ruby/object:Info
+  s: '75'
+  b: '115'
+  c: '40'
+  name: メガヘラクロス
+  no: '214'
+  a: '185'
+  d: '105'
+  h: '80'
+ニューラ: !ruby/object:Info
+  s: '115'
+  b: '55'
+  c: '35'
+  name: ニューラ
+  no: '215'
+  a: '95'
+  d: '75'
+  h: '55'
+ヒメグマ: !ruby/object:Info
+  s: '40'
+  b: '50'
+  c: '50'
+  name: ヒメグマ
+  no: '216'
+  a: '80'
+  d: '50'
+  h: '60'
+リングマ: !ruby/object:Info
+  s: '55'
+  b: '75'
+  c: '75'
+  name: リングマ
+  no: '217'
+  a: '130'
+  d: '75'
+  h: '90'
+マグマッグ: !ruby/object:Info
+  s: '20'
+  b: '40'
+  c: '70'
+  name: マグマッグ
+  no: '218'
+  a: '40'
+  d: '40'
+  h: '40'
+マグカルゴ: !ruby/object:Info
+  s: '30'
+  b: '120'
+  c: '80'
+  name: マグカルゴ
+  no: '219'
+  a: '50'
+  d: '80'
+  h: '50'
+ウリムー: !ruby/object:Info
+  s: '50'
+  b: '40'
+  c: '30'
+  name: ウリムー
+  no: '220'
+  a: '50'
+  d: '30'
+  h: '50'
+イノムー: !ruby/object:Info
+  s: '50'
+  b: '80'
+  c: '60'
+  name: イノムー
+  no: '221'
+  a: '100'
+  d: '60'
+  h: '100'
+サニーゴ: !ruby/object:Info
+  s: '35'
+  b: '85'
+  c: '65'
+  name: サニーゴ
+  no: '222'
+  a: '55'
+  d: '85'
+  h: '55'
+テッポウオ: !ruby/object:Info
+  s: '65'
+  b: '35'
+  c: '65'
+  name: テッポウオ
+  no: '223'
+  a: '65'
+  d: '35'
+  h: '35'
+オクタン: !ruby/object:Info
+  s: '45'
+  b: '75'
+  c: '105'
+  name: オクタン
+  no: '224'
+  a: '105'
+  d: '75'
+  h: '75'
+デリバード: !ruby/object:Info
+  s: '75'
+  b: '45'
+  c: '65'
+  name: デリバード
+  no: '225'
+  a: '55'
+  d: '45'
+  h: '45'
+マンタイン: !ruby/object:Info
+  s: '70'
+  b: '70'
+  c: '80'
+  name: マンタイン
+  no: '226'
+  a: '40'
+  d: '140'
+  h: '65'
+エアームド: !ruby/object:Info
+  s: '70'
+  b: '140'
+  c: '40'
+  name: エアームド
+  no: '227'
+  a: '80'
+  d: '70'
+  h: '65'
+デルビル: !ruby/object:Info
+  s: '65'
+  b: '30'
+  c: '80'
+  name: デルビル
+  no: '228'
+  a: '60'
+  d: '50'
+  h: '45'
+ヘルガー: !ruby/object:Info
+  s: '95'
+  b: '50'
+  c: '110'
+  name: ヘルガー
+  no: '229'
+  a: '90'
+  d: '80'
+  h: '75'
+メガヘルガー: !ruby/object:Info
+  s: '115'
+  b: '90'
+  c: '140'
+  name: メガヘルガー
+  no: '229'
+  a: '90'
+  d: '90'
+  h: '75'
+キングドラ: !ruby/object:Info
+  s: '85'
+  b: '95'
+  c: '95'
+  name: キングドラ
+  no: '230'
+  a: '95'
+  d: '95'
+  h: '75'
+ゴマゾウ: !ruby/object:Info
+  s: '40'
+  b: '60'
+  c: '40'
+  name: ゴマゾウ
+  no: '231'
+  a: '60'
+  d: '40'
+  h: '90'
+ドンファン: !ruby/object:Info
+  s: '50'
+  b: '120'
+  c: '60'
+  name: ドンファン
+  no: '232'
+  a: '120'
+  d: '60'
+  h: '90'
+ポリゴン2: !ruby/object:Info
+  s: '60'
+  b: '90'
+  c: '105'
+  name: ポリゴン2
+  no: '233'
+  a: '80'
+  d: '95'
+  h: '85'
+オドシシ: !ruby/object:Info
+  s: '85'
+  b: '62'
+  c: '85'
+  name: オドシシ
+  no: '234'
+  a: '95'
+  d: '65'
+  h: '73'
+ドーブル: !ruby/object:Info
+  s: '75'
+  b: '35'
+  c: '20'
+  name: ドーブル
+  no: '235'
+  a: '20'
+  d: '45'
+  h: '55'
+バルキー: !ruby/object:Info
+  s: '35'
+  b: '35'
+  c: '35'
+  name: バルキー
+  no: '236'
+  a: '35'
+  d: '35'
+  h: '35'
+カポエラー: !ruby/object:Info
+  s: '70'
+  b: '95'
+  c: '35'
+  name: カポエラー
+  no: '237'
+  a: '95'
+  d: '110'
+  h: '50'
+ムチュール: !ruby/object:Info
+  s: '65'
+  b: '15'
+  c: '85'
+  name: ムチュール
+  no: '238'
+  a: '30'
+  d: '65'
+  h: '45'
+エレキッド: !ruby/object:Info
+  s: '95'
+  b: '37'
+  c: '65'
+  name: エレキッド
+  no: '239'
+  a: '63'
+  d: '55'
+  h: '45'
+ブビィ: !ruby/object:Info
+  s: '83'
+  b: '37'
+  c: '70'
+  name: ブビィ
+  no: '240'
+  a: '75'
+  d: '55'
+  h: '45'
+ミルタンク: !ruby/object:Info
+  s: '100'
+  b: '105'
+  c: '40'
+  name: ミルタンク
+  no: '241'
+  a: '80'
+  d: '70'
+  h: '95'
+ハピナス: !ruby/object:Info
+  s: '55'
+  b: '10'
+  c: '75'
+  name: ハピナス
+  no: '242'
+  a: '10'
+  d: '135'
+  h: '255'
+ライコウ: !ruby/object:Info
+  s: '115'
+  b: '75'
+  c: '115'
+  name: ライコウ
+  no: '243'
+  a: '85'
+  d: '100'
+  h: '90'
+エンテイ: !ruby/object:Info
+  s: '100'
+  b: '85'
+  c: '90'
+  name: エンテイ
+  no: '244'
+  a: '115'
+  d: '75'
+  h: '115'
+スイクン: !ruby/object:Info
+  s: '85'
+  b: '115'
+  c: '90'
+  name: スイクン
+  no: '245'
+  a: '75'
+  d: '115'
+  h: '100'
+ヨーギラス: !ruby/object:Info
+  s: '41'
+  b: '50'
+  c: '45'
+  name: ヨーギラス
+  no: '246'
+  a: '64'
+  d: '50'
+  h: '50'
+サナギラス: !ruby/object:Info
+  s: '51'
+  b: '70'
+  c: '65'
+  name: サナギラス
+  no: '247'
+  a: '84'
+  d: '70'
+  h: '70'
+バンギラス: !ruby/object:Info
+  s: '61'
+  b: '110'
+  c: '95'
+  name: バンギラス
+  no: '248'
+  a: '134'
+  d: '100'
+  h: '100'
+メガバンギラス: !ruby/object:Info
+  s: '71'
+  b: '150'
+  c: '95'
+  name: メガバンギラス
+  no: '248'
+  a: '164'
+  d: '120'
+  h: '100'
+ルギア: !ruby/object:Info
+  s: '110'
+  b: '130'
+  c: '90'
+  name: ルギア
+  no: '249'
+  a: '90'
+  d: '154'
+  h: '106'
+ホウオウ: !ruby/object:Info
+  s: '90'
+  b: '90'
+  c: '110'
+  name: ホウオウ
+  no: '250'
+  a: '130'
+  d: '154'
+  h: '106'
+セレビィ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: セレビィ
+  no: '251'
+  a: '100'
+  d: '100'
+  h: '100'
+キモリ: !ruby/object:Info
+  s: '70'
+  b: '35'
+  c: '65'
+  name: キモリ
+  no: '252'
+  a: '45'
+  d: '55'
+  h: '40'
+ジュプトル: !ruby/object:Info
+  s: '95'
+  b: '45'
+  c: '85'
+  name: ジュプトル
+  no: '253'
+  a: '65'
+  d: '65'
+  h: '50'
+ジュカイン: !ruby/object:Info
+  s: '120'
+  b: '65'
+  c: '105'
+  name: ジュカイン
+  no: '254'
+  a: '85'
+  d: '85'
+  h: '70'
+アチャモ: !ruby/object:Info
+  s: '45'
+  b: '40'
+  c: '70'
+  name: アチャモ
+  no: '255'
+  a: '60'
+  d: '50'
+  h: '45'
+ワカシャモ: !ruby/object:Info
+  s: '55'
+  b: '60'
+  c: '85'
+  name: ワカシャモ
+  no: '256'
+  a: '85'
+  d: '60'
+  h: '60'
+バシャーモ: !ruby/object:Info
+  s: '80'
+  b: '70'
+  c: '110'
+  name: バシャーモ
+  no: '257'
+  a: '120'
+  d: '70'
+  h: '80'
+メガバシャーモ: !ruby/object:Info
+  s: '100'
+  b: '80'
+  c: '130'
+  name: メガバシャーモ
+  no: '257'
+  a: '160'
+  d: '80'
+  h: '80'
+ミズゴロウ: !ruby/object:Info
+  s: '40'
+  b: '50'
+  c: '50'
+  name: ミズゴロウ
+  no: '258'
+  a: '70'
+  d: '50'
+  h: '50'
+ヌマクロー: !ruby/object:Info
+  s: '50'
+  b: '70'
+  c: '60'
+  name: ヌマクロー
+  no: '259'
+  a: '85'
+  d: '70'
+  h: '70'
+ラグラージ: !ruby/object:Info
+  s: '60'
+  b: '90'
+  c: '85'
+  name: ラグラージ
+  no: '260'
+  a: '110'
+  d: '90'
+  h: '100'
+ポチエナ: !ruby/object:Info
+  s: '35'
+  b: '35'
+  c: '30'
+  name: ポチエナ
+  no: '261'
+  a: '55'
+  d: '30'
+  h: '35'
+グラエナ: !ruby/object:Info
+  s: '70'
+  b: '70'
+  c: '60'
+  name: グラエナ
+  no: '262'
+  a: '90'
+  d: '60'
+  h: '70'
+ジグザグマ: !ruby/object:Info
+  s: '60'
+  b: '41'
+  c: '30'
+  name: ジグザグマ
+  no: '263'
+  a: '30'
+  d: '41'
+  h: '38'
+マッスグマ: !ruby/object:Info
+  s: '100'
+  b: '61'
+  c: '50'
+  name: マッスグマ
+  no: '264'
+  a: '70'
+  d: '61'
+  h: '78'
+ケムッソ: !ruby/object:Info
+  s: '20'
+  b: '35'
+  c: '20'
+  name: ケムッソ
+  no: '265'
+  a: '45'
+  d: '30'
+  h: '45'
+カラサリス: !ruby/object:Info
+  s: '15'
+  b: '55'
+  c: '25'
+  name: カラサリス
+  no: '266'
+  a: '35'
+  d: '25'
+  h: '50'
+アゲハント: !ruby/object:Info
+  s: '65'
+  b: '50'
+  c: '100'
+  name: アゲハント
+  no: '267'
+  a: '70'
+  d: '50'
+  h: '60'
+マユルド: !ruby/object:Info
+  s: '15'
+  b: '55'
+  c: '25'
+  name: マユルド
+  no: '268'
+  a: '35'
+  d: '25'
+  h: '50'
+ドクケイル: !ruby/object:Info
+  s: '65'
+  b: '70'
+  c: '50'
+  name: ドクケイル
+  no: '269'
+  a: '50'
+  d: '90'
+  h: '60'
+ハスボー: !ruby/object:Info
+  s: '30'
+  b: '30'
+  c: '40'
+  name: ハスボー
+  no: '270'
+  a: '30'
+  d: '50'
+  h: '40'
+ハスブレロ: !ruby/object:Info
+  s: '50'
+  b: '50'
+  c: '60'
+  name: ハスブレロ
+  no: '271'
+  a: '50'
+  d: '70'
+  h: '60'
+ルンパッパ: !ruby/object:Info
+  s: '70'
+  b: '70'
+  c: '90'
+  name: ルンパッパ
+  no: '272'
+  a: '70'
+  d: '100'
+  h: '80'
+タネボー: !ruby/object:Info
+  s: '30'
+  b: '50'
+  c: '30'
+  name: タネボー
+  no: '273'
+  a: '40'
+  d: '30'
+  h: '40'
+コノハナ: !ruby/object:Info
+  s: '60'
+  b: '40'
+  c: '60'
+  name: コノハナ
+  no: '274'
+  a: '70'
+  d: '40'
+  h: '70'
+ダーテング: !ruby/object:Info
+  s: '80'
+  b: '60'
+  c: '90'
+  name: ダーテング
+  no: '275'
+  a: '100'
+  d: '60'
+  h: '90'
+スバメ: !ruby/object:Info
+  s: '85'
+  b: '30'
+  c: '30'
+  name: スバメ
+  no: '276'
+  a: '55'
+  d: '30'
+  h: '40'
+オオスバメ: !ruby/object:Info
+  s: '125'
+  b: '60'
+  c: '50'
+  name: オオスバメ
+  no: '277'
+  a: '85'
+  d: '50'
+  h: '60'
+キャモメ: !ruby/object:Info
+  s: '85'
+  b: '30'
+  c: '55'
+  name: キャモメ
+  no: '278'
+  a: '30'
+  d: '30'
+  h: '40'
+ペリッパー: !ruby/object:Info
+  s: '65'
+  b: '100'
+  c: '85'
+  name: ペリッパー
+  no: '279'
+  a: '50'
+  d: '70'
+  h: '60'
+ラルトス: !ruby/object:Info
+  s: '40'
+  b: '25'
+  c: '45'
+  name: ラルトス
+  no: '280'
+  a: '25'
+  d: '35'
+  h: '28'
+キルリア: !ruby/object:Info
+  s: '50'
+  b: '35'
+  c: '65'
+  name: キルリア
+  no: '281'
+  a: '35'
+  d: '55'
+  h: '38'
+サーナイト: !ruby/object:Info
+  s: '80'
+  b: '65'
+  c: '125'
+  name: サーナイト
+  no: '282'
+  a: '65'
+  d: '115'
+  h: '68'
+メガサーナイト: !ruby/object:Info
+  s: '100'
+  b: '65'
+  c: '165'
+  name: メガサーナイト
+  no: '282'
+  a: '85'
+  d: '135'
+  h: '68'
+アメタマ: !ruby/object:Info
+  s: '65'
+  b: '32'
+  c: '50'
+  name: アメタマ
+  no: '283'
+  a: '30'
+  d: '52'
+  h: '40'
+アメモース: !ruby/object:Info
+  s: '60'
+  b: '62'
+  c: '80'
+  name: アメモース
+  no: '284'
+  a: '60'
+  d: '82'
+  h: '70'
+キノココ: !ruby/object:Info
+  s: '35'
+  b: '60'
+  c: '40'
+  name: キノココ
+  no: '285'
+  a: '40'
+  d: '60'
+  h: '60'
+キノガッサ: !ruby/object:Info
+  s: '70'
+  b: '80'
+  c: '60'
+  name: キノガッサ
+  no: '286'
+  a: '130'
+  d: '60'
+  h: '60'
+ナマケロ: !ruby/object:Info
+  s: '30'
+  b: '60'
+  c: '35'
+  name: ナマケロ
+  no: '287'
+  a: '60'
+  d: '35'
+  h: '60'
+ヤルキモノ: !ruby/object:Info
+  s: '90'
+  b: '80'
+  c: '55'
+  name: ヤルキモノ
+  no: '288'
+  a: '80'
+  d: '55'
+  h: '80'
+ケッキング: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '95'
+  name: ケッキング
+  no: '289'
+  a: '160'
+  d: '65'
+  h: '150'
+ツチニン: !ruby/object:Info
+  s: '40'
+  b: '90'
+  c: '30'
+  name: ツチニン
+  no: '290'
+  a: '45'
+  d: '30'
+  h: '31'
+テッカニン: !ruby/object:Info
+  s: '160'
+  b: '45'
+  c: '50'
+  name: テッカニン
+  no: '291'
+  a: '90'
+  d: '50'
+  h: '61'
+ヌケニン: !ruby/object:Info
+  s: '40'
+  b: '45'
+  c: '30'
+  name: ヌケニン
+  no: '292'
+  a: '90'
+  d: '30'
+  h: '1'
+ゴニョニョ: !ruby/object:Info
+  s: '28'
+  b: '23'
+  c: '51'
+  name: ゴニョニョ
+  no: '293'
+  a: '51'
+  d: '23'
+  h: '64'
+ドゴーム: !ruby/object:Info
+  s: '48'
+  b: '43'
+  c: '71'
+  name: ドゴーム
+  no: '294'
+  a: '71'
+  d: '43'
+  h: '84'
+バクオング: !ruby/object:Info
+  s: '68'
+  b: '63'
+  c: '91'
+  name: バクオング
+  no: '295'
+  a: '91'
+  d: '73'
+  h: '104'
+マクノシタ: !ruby/object:Info
+  s: '25'
+  b: '30'
+  c: '20'
+  name: マクノシタ
+  no: '296'
+  a: '60'
+  d: '30'
+  h: '72'
+ハリテヤマ: !ruby/object:Info
+  s: '50'
+  b: '60'
+  c: '40'
+  name: ハリテヤマ
+  no: '297'
+  a: '120'
+  d: '60'
+  h: '144'
+ルリリ: !ruby/object:Info
+  s: '20'
+  b: '40'
+  c: '20'
+  name: ルリリ
+  no: '298'
+  a: '20'
+  d: '40'
+  h: '50'
+ノズパス: !ruby/object:Info
+  s: '30'
+  b: '135'
+  c: '45'
+  name: ノズパス
+  no: '299'
+  a: '45'
+  d: '90'
+  h: '30'
+エネコ: !ruby/object:Info
+  s: '50'
+  b: '45'
+  c: '35'
+  name: エネコ
+  no: '300'
+  a: '45'
+  d: '35'
+  h: '50'
+エネコロロ: !ruby/object:Info
+  s: '70'
+  b: '65'
+  c: '55'
+  name: エネコロロ
+  no: '301'
+  a: '65'
+  d: '55'
+  h: '70'
+ヤミラミ: !ruby/object:Info
+  s: '50'
+  b: '75'
+  c: '65'
+  name: ヤミラミ
+  no: '302'
+  a: '75'
+  d: '65'
+  h: '50'
+クチート: !ruby/object:Info
+  s: '50'
+  b: '85'
+  c: '55'
+  name: クチート
+  no: '303'
+  a: '85'
+  d: '55'
+  h: '50'
+メガクチート: !ruby/object:Info
+  s: '50'
+  b: '125'
+  c: '55'
+  name: メガクチート
+  no: '303'
+  a: '105'
+  d: '95'
+  h: '50'
+ココドラ: !ruby/object:Info
+  s: '30'
+  b: '100'
+  c: '40'
+  name: ココドラ
+  no: '304'
+  a: '70'
+  d: '40'
+  h: '50'
+コドラ: !ruby/object:Info
+  s: '40'
+  b: '140'
+  c: '50'
+  name: コドラ
+  no: '305'
+  a: '90'
+  d: '50'
+  h: '60'
+ボスゴドラ: !ruby/object:Info
+  s: '50'
+  b: '180'
+  c: '60'
+  name: ボスゴドラ
+  no: '306'
+  a: '110'
+  d: '60'
+  h: '70'
+メガボスゴドラ: !ruby/object:Info
+  s: '50'
+  b: '230'
+  c: '60'
+  name: メガボスゴドラ
+  no: '306'
+  a: '140'
+  d: '80'
+  h: '70'
+アサナン: !ruby/object:Info
+  s: '60'
+  b: '55'
+  c: '40'
+  name: アサナン
+  no: '307'
+  a: '40'
+  d: '55'
+  h: '30'
+チャーレム: !ruby/object:Info
+  s: '80'
+  b: '75'
+  c: '60'
+  name: チャーレム
+  no: '308'
+  a: '60'
+  d: '75'
+  h: '60'
+メガチャーレム: !ruby/object:Info
+  s: '100'
+  b: '85'
+  c: '80'
+  name: メガチャーレム
+  no: '308'
+  a: '100'
+  d: '85'
+  h: '60'
+ラクライ: !ruby/object:Info
+  s: '65'
+  b: '40'
+  c: '65'
+  name: ラクライ
+  no: '309'
+  a: '45'
+  d: '40'
+  h: '40'
+ライボルト: !ruby/object:Info
+  s: '105'
+  b: '60'
+  c: '105'
+  name: ライボルト
+  no: '310'
+  a: '75'
+  d: '60'
+  h: '70'
+メガライボルト: !ruby/object:Info
+  s: '135'
+  b: '80'
+  c: '135'
+  name: メガライボルト
+  no: '310'
+  a: '75'
+  d: '80'
+  h: '70'
+プラスル: !ruby/object:Info
+  s: '95'
+  b: '40'
+  c: '85'
+  name: プラスル
+  no: '311'
+  a: '50'
+  d: '75'
+  h: '60'
+マイナン: !ruby/object:Info
+  s: '95'
+  b: '50'
+  c: '75'
+  name: マイナン
+  no: '312'
+  a: '40'
+  d: '85'
+  h: '60'
+バルビート: !ruby/object:Info
+  s: '85'
+  b: '55'
+  c: '47'
+  name: バルビート
+  no: '313'
+  a: '73'
+  d: '75'
+  h: '65'
+イルミーゼ: !ruby/object:Info
+  s: '85'
+  b: '55'
+  c: '73'
+  name: イルミーゼ
+  no: '314'
+  a: '47'
+  d: '75'
+  h: '65'
+ロゼリア: !ruby/object:Info
+  s: '65'
+  b: '45'
+  c: '100'
+  name: ロゼリア
+  no: '315'
+  a: '60'
+  d: '80'
+  h: '50'
+ゴクリン: !ruby/object:Info
+  s: '40'
+  b: '53'
+  c: '43'
+  name: ゴクリン
+  no: '316'
+  a: '43'
+  d: '53'
+  h: '70'
+マルノーム: !ruby/object:Info
+  s: '55'
+  b: '83'
+  c: '73'
+  name: マルノーム
+  no: '317'
+  a: '73'
+  d: '83'
+  h: '100'
+キバニア: !ruby/object:Info
+  s: '65'
+  b: '20'
+  c: '65'
+  name: キバニア
+  no: '318'
+  a: '90'
+  d: '20'
+  h: '45'
+サメハダー: !ruby/object:Info
+  s: '95'
+  b: '40'
+  c: '95'
+  name: サメハダー
+  no: '319'
+  a: '120'
+  d: '40'
+  h: '70'
+ホエルコ: !ruby/object:Info
+  s: '60'
+  b: '35'
+  c: '70'
+  name: ホエルコ
+  no: '320'
+  a: '70'
+  d: '35'
+  h: '130'
+ホエルオー: !ruby/object:Info
+  s: '60'
+  b: '45'
+  c: '90'
+  name: ホエルオー
+  no: '321'
+  a: '90'
+  d: '45'
+  h: '170'
+ドンメル: !ruby/object:Info
+  s: '35'
+  b: '40'
+  c: '65'
+  name: ドンメル
+  no: '322'
+  a: '60'
+  d: '45'
+  h: '60'
+バクーダ: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '105'
+  name: バクーダ
+  no: '323'
+  a: '100'
+  d: '75'
+  h: '70'
+コータス: !ruby/object:Info
+  s: '20'
+  b: '140'
+  c: '85'
+  name: コータス
+  no: '324'
+  a: '85'
+  d: '70'
+  h: '70'
+バネブー: !ruby/object:Info
+  s: '60'
+  b: '35'
+  c: '70'
+  name: バネブー
+  no: '325'
+  a: '25'
+  d: '80'
+  h: '60'
+ブーピッグ: !ruby/object:Info
+  s: '80'
+  b: '65'
+  c: '90'
+  name: ブーピッグ
+  no: '326'
+  a: '45'
+  d: '110'
+  h: '80'
+パッチール: !ruby/object:Info
+  s: '60'
+  b: '60'
+  c: '60'
+  name: パッチール
+  no: '327'
+  a: '60'
+  d: '60'
+  h: '60'
+ナックラー: !ruby/object:Info
+  s: '10'
+  b: '45'
+  c: '45'
+  name: ナックラー
+  no: '328'
+  a: '100'
+  d: '45'
+  h: '45'
+ビブラーバ: !ruby/object:Info
+  s: '70'
+  b: '50'
+  c: '50'
+  name: ビブラーバ
+  no: '329'
+  a: '70'
+  d: '50'
+  h: '50'
+フライゴン: !ruby/object:Info
+  s: '100'
+  b: '80'
+  c: '80'
+  name: フライゴン
+  no: '330'
+  a: '100'
+  d: '80'
+  h: '80'
+サボネア: !ruby/object:Info
+  s: '35'
+  b: '40'
+  c: '85'
+  name: サボネア
+  no: '331'
+  a: '85'
+  d: '40'
+  h: '50'
+ノクタス: !ruby/object:Info
+  s: '55'
+  b: '60'
+  c: '115'
+  name: ノクタス
+  no: '332'
+  a: '115'
+  d: '60'
+  h: '70'
+チルット: !ruby/object:Info
+  s: '50'
+  b: '60'
+  c: '40'
+  name: チルット
+  no: '333'
+  a: '40'
+  d: '75'
+  h: '45'
+チルタリス: !ruby/object:Info
+  s: '80'
+  b: '90'
+  c: '70'
+  name: チルタリス
+  no: '334'
+  a: '70'
+  d: '105'
+  h: '75'
+ザングース: !ruby/object:Info
+  s: '90'
+  b: '60'
+  c: '60'
+  name: ザングース
+  no: '335'
+  a: '115'
+  d: '60'
+  h: '73'
+ハブネーク: !ruby/object:Info
+  s: '65'
+  b: '60'
+  c: '100'
+  name: ハブネーク
+  no: '336'
+  a: '100'
+  d: '60'
+  h: '73'
+ルナトーン: !ruby/object:Info
+  s: '70'
+  b: '65'
+  c: '95'
+  name: ルナトーン
+  no: '337'
+  a: '55'
+  d: '85'
+  h: '70'
+ソルロック: !ruby/object:Info
+  s: '70'
+  b: '85'
+  c: '55'
+  name: ソルロック
+  no: '338'
+  a: '95'
+  d: '65'
+  h: '70'
+ドジョッチ: !ruby/object:Info
+  s: '60'
+  b: '43'
+  c: '46'
+  name: ドジョッチ
+  no: '339'
+  a: '48'
+  d: '41'
+  h: '50'
+ナマズン: !ruby/object:Info
+  s: '60'
+  b: '73'
+  c: '76'
+  name: ナマズン
+  no: '340'
+  a: '78'
+  d: '71'
+  h: '110'
+ヘイガニ: !ruby/object:Info
+  s: '35'
+  b: '65'
+  c: '50'
+  name: ヘイガニ
+  no: '341'
+  a: '80'
+  d: '35'
+  h: '43'
+シザリガー: !ruby/object:Info
+  s: '55'
+  b: '85'
+  c: '90'
+  name: シザリガー
+  no: '342'
+  a: '120'
+  d: '55'
+  h: '63'
+ヤジロン: !ruby/object:Info
+  s: '55'
+  b: '55'
+  c: '40'
+  name: ヤジロン
+  no: '343'
+  a: '40'
+  d: '70'
+  h: '40'
+ネンドール: !ruby/object:Info
+  s: '75'
+  b: '105'
+  c: '70'
+  name: ネンドール
+  no: '344'
+  a: '70'
+  d: '120'
+  h: '60'
+リリーラ: !ruby/object:Info
+  s: '23'
+  b: '77'
+  c: '61'
+  name: リリーラ
+  no: '345'
+  a: '41'
+  d: '87'
+  h: '66'
+ユレイドル: !ruby/object:Info
+  s: '43'
+  b: '97'
+  c: '81'
+  name: ユレイドル
+  no: '346'
+  a: '81'
+  d: '107'
+  h: '86'
+アノプス: !ruby/object:Info
+  s: '75'
+  b: '50'
+  c: '40'
+  name: アノプス
+  no: '347'
+  a: '95'
+  d: '50'
+  h: '45'
+アーマルド: !ruby/object:Info
+  s: '45'
+  b: '100'
+  c: '70'
+  name: アーマルド
+  no: '348'
+  a: '125'
+  d: '80'
+  h: '75'
+ヒンバス: !ruby/object:Info
+  s: '80'
+  b: '20'
+  c: '10'
+  name: ヒンバス
+  no: '349'
+  a: '15'
+  d: '55'
+  h: '20'
+ミロカロス: !ruby/object:Info
+  s: '81'
+  b: '79'
+  c: '100'
+  name: ミロカロス
+  no: '350'
+  a: '60'
+  d: '125'
+  h: '95'
+ポワルン: !ruby/object:Info
+  s: '70'
+  b: '70'
+  c: '70'
+  name: ポワルン
+  no: '351'
+  a: '70'
+  d: '70'
+  h: '70'
+カクレオン: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '60'
+  name: カクレオン
+  no: '352'
+  a: '90'
+  d: '120'
+  h: '60'
+カゲボウズ: !ruby/object:Info
+  s: '45'
+  b: '35'
+  c: '63'
+  name: カゲボウズ
+  no: '353'
+  a: '75'
+  d: '33'
+  h: '44'
+ジュペッタ: !ruby/object:Info
+  s: '65'
+  b: '65'
+  c: '83'
+  name: ジュペッタ
+  no: '354'
+  a: '115'
+  d: '63'
+  h: '64'
+メガジュペッタ: !ruby/object:Info
+  s: '75'
+  b: '75'
+  c: '93'
+  name: メガジュペッタ
+  no: '354'
+  a: '165'
+  d: '83'
+  h: '64'
+ヨマワル: !ruby/object:Info
+  s: '25'
+  b: '90'
+  c: '30'
+  name: ヨマワル
+  no: '355'
+  a: '40'
+  d: '90'
+  h: '20'
+サマヨール: !ruby/object:Info
+  s: '25'
+  b: '130'
+  c: '60'
+  name: サマヨール
+  no: '356'
+  a: '70'
+  d: '130'
+  h: '40'
+トロピウス: !ruby/object:Info
+  s: '51'
+  b: '83'
+  c: '72'
+  name: トロピウス
+  no: '357'
+  a: '68'
+  d: '87'
+  h: '99'
+チリーン: !ruby/object:Info
+  s: '65'
+  b: '70'
+  c: '95'
+  name: チリーン
+  no: '358'
+  a: '50'
+  d: '80'
+  h: '65'
+アブソル: !ruby/object:Info
+  s: '75'
+  b: '60'
+  c: '75'
+  name: アブソル
+  no: '359'
+  a: '130'
+  d: '60'
+  h: '65'
+メガアブソル: !ruby/object:Info
+  s: '115'
+  b: '60'
+  c: '115'
+  name: メガアブソル
+  no: '359'
+  a: '150'
+  d: '60'
+  h: '65'
+ソーナノ: !ruby/object:Info
+  s: '23'
+  b: '48'
+  c: '23'
+  name: ソーナノ
+  no: '360'
+  a: '23'
+  d: '48'
+  h: '95'
+ユキワラシ: !ruby/object:Info
+  s: '50'
+  b: '50'
+  c: '50'
+  name: ユキワラシ
+  no: '361'
+  a: '50'
+  d: '50'
+  h: '50'
+オニゴーリ: !ruby/object:Info
+  s: '80'
+  b: '80'
+  c: '80'
+  name: オニゴーリ
+  no: '362'
+  a: '80'
+  d: '80'
+  h: '80'
+タマザラシ: !ruby/object:Info
+  s: '25'
+  b: '50'
+  c: '55'
+  name: タマザラシ
+  no: '363'
+  a: '40'
+  d: '50'
+  h: '70'
+トドグラー: !ruby/object:Info
+  s: '45'
+  b: '70'
+  c: '75'
+  name: トドグラー
+  no: '364'
+  a: '60'
+  d: '70'
+  h: '90'
+トドゼルガ: !ruby/object:Info
+  s: '65'
+  b: '90'
+  c: '95'
+  name: トドゼルガ
+  no: '365'
+  a: '80'
+  d: '90'
+  h: '110'
+パールル: !ruby/object:Info
+  s: '32'
+  b: '85'
+  c: '74'
+  name: パールル
+  no: '366'
+  a: '64'
+  d: '55'
+  h: '35'
+ハンテール: !ruby/object:Info
+  s: '52'
+  b: '105'
+  c: '94'
+  name: ハンテール
+  no: '367'
+  a: '104'
+  d: '75'
+  h: '55'
+サクラビス: !ruby/object:Info
+  s: '52'
+  b: '105'
+  c: '114'
+  name: サクラビス
+  no: '368'
+  a: '84'
+  d: '75'
+  h: '55'
+ジーランス: !ruby/object:Info
+  s: '55'
+  b: '130'
+  c: '45'
+  name: ジーランス
+  no: '369'
+  a: '90'
+  d: '65'
+  h: '100'
+ラブカス: !ruby/object:Info
+  s: '97'
+  b: '55'
+  c: '40'
+  name: ラブカス
+  no: '370'
+  a: '30'
+  d: '65'
+  h: '43'
+タツベイ: !ruby/object:Info
+  s: '50'
+  b: '60'
+  c: '40'
+  name: タツベイ
+  no: '371'
+  a: '75'
+  d: '30'
+  h: '45'
+コモルー: !ruby/object:Info
+  s: '50'
+  b: '100'
+  c: '60'
+  name: コモルー
+  no: '372'
+  a: '95'
+  d: '50'
+  h: '65'
+ボーマンダ: !ruby/object:Info
+  s: '100'
+  b: '80'
+  c: '110'
+  name: ボーマンダ
+  no: '373'
+  a: '135'
+  d: '80'
+  h: '95'
+ダンバル: !ruby/object:Info
+  s: '30'
+  b: '80'
+  c: '35'
+  name: ダンバル
+  no: '374'
+  a: '55'
+  d: '60'
+  h: '40'
+メタング: !ruby/object:Info
+  s: '50'
+  b: '100'
+  c: '55'
+  name: メタング
+  no: '375'
+  a: '75'
+  d: '80'
+  h: '60'
+メタグロス: !ruby/object:Info
+  s: '70'
+  b: '130'
+  c: '95'
+  name: メタグロス
+  no: '376'
+  a: '135'
+  d: '90'
+  h: '80'
+レジロック: !ruby/object:Info
+  s: '50'
+  b: '200'
+  c: '50'
+  name: レジロック
+  no: '377'
+  a: '100'
+  d: '100'
+  h: '80'
+レジアイス: !ruby/object:Info
+  s: '50'
+  b: '100'
+  c: '100'
+  name: レジアイス
+  no: '378'
+  a: '50'
+  d: '200'
+  h: '80'
+レジスチル: !ruby/object:Info
+  s: '50'
+  b: '150'
+  c: '75'
+  name: レジスチル
+  no: '379'
+  a: '75'
+  d: '150'
+  h: '80'
+ラティアス: !ruby/object:Info
+  s: '110'
+  b: '90'
+  c: '110'
+  name: ラティアス
+  no: '380'
+  a: '80'
+  d: '130'
+  h: '80'
+ラティオス: !ruby/object:Info
+  s: '110'
+  b: '80'
+  c: '130'
+  name: ラティオス
+  no: '381'
+  a: '90'
+  d: '110'
+  h: '80'
+カイオーガ: !ruby/object:Info
+  s: '90'
+  b: '90'
+  c: '150'
+  name: カイオーガ
+  no: '382'
+  a: '100'
+  d: '140'
+  h: '100'
+グラードン: !ruby/object:Info
+  s: '90'
+  b: '140'
+  c: '100'
+  name: グラードン
+  no: '383'
+  a: '150'
+  d: '90'
+  h: '100'
+レックウザ: !ruby/object:Info
+  s: '95'
+  b: '90'
+  c: '150'
+  name: レックウザ
+  no: '384'
+  a: '150'
+  d: '90'
+  h: '105'
+ジラーチ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: ジラーチ
+  no: '385'
+  a: '100'
+  d: '100'
+  h: '100'
+デオキシス(ノーマルフォルム): !ruby/object:Info
+  s: '150'
+  b: '50'
+  c: '150'
+  name: デオキシス(ノーマルフォルム)
+  no: '386'
+  a: '150'
+  d: '50'
+  h: '50'
+デオキシス(アタックフォルム): !ruby/object:Info
+  s: '150'
+  b: '20'
+  c: '180'
+  name: デオキシス(アタックフォルム)
+  no: '386'
+  a: '180'
+  d: '20'
+  h: '50'
+デオキシス(ディフェンスフォルム): !ruby/object:Info
+  s: '90'
+  b: '160'
+  c: '70'
+  name: デオキシス(ディフェンスフォルム)
+  no: '386'
+  a: '70'
+  d: '160'
+  h: '50'
+デオキシス(スピードフォルム): !ruby/object:Info
+  s: '180'
+  b: '90'
+  c: '95'
+  name: デオキシス(スピードフォルム)
+  no: '386'
+  a: '95'
+  d: '90'
+  h: '50'
+ナエトル: !ruby/object:Info
+  s: '31'
+  b: '64'
+  c: '45'
+  name: ナエトル
+  no: '387'
+  a: '68'
+  d: '55'
+  h: '55'
+ハヤシガメ: !ruby/object:Info
+  s: '36'
+  b: '85'
+  c: '55'
+  name: ハヤシガメ
+  no: '388'
+  a: '89'
+  d: '65'
+  h: '75'
+ドダイトス: !ruby/object:Info
+  s: '56'
+  b: '105'
+  c: '75'
+  name: ドダイトス
+  no: '389'
+  a: '109'
+  d: '85'
+  h: '95'
+ヒコザル: !ruby/object:Info
+  s: '61'
+  b: '44'
+  c: '58'
+  name: ヒコザル
+  no: '390'
+  a: '58'
+  d: '44'
+  h: '44'
+モウカザル: !ruby/object:Info
+  s: '81'
+  b: '52'
+  c: '78'
+  name: モウカザル
+  no: '391'
+  a: '78'
+  d: '52'
+  h: '64'
+ゴウカザル: !ruby/object:Info
+  s: '108'
+  b: '71'
+  c: '104'
+  name: ゴウカザル
+  no: '392'
+  a: '104'
+  d: '71'
+  h: '76'
+ポッチャマ: !ruby/object:Info
+  s: '40'
+  b: '53'
+  c: '61'
+  name: ポッチャマ
+  no: '393'
+  a: '51'
+  d: '56'
+  h: '53'
+ポッタイシ: !ruby/object:Info
+  s: '50'
+  b: '68'
+  c: '81'
+  name: ポッタイシ
+  no: '394'
+  a: '66'
+  d: '76'
+  h: '64'
+エンペルト: !ruby/object:Info
+  s: '60'
+  b: '88'
+  c: '111'
+  name: エンペルト
+  no: '395'
+  a: '86'
+  d: '101'
+  h: '84'
+ムックル: !ruby/object:Info
+  s: '60'
+  b: '30'
+  c: '30'
+  name: ムックル
+  no: '396'
+  a: '55'
+  d: '30'
+  h: '40'
+ムクバード: !ruby/object:Info
+  s: '80'
+  b: '50'
+  c: '40'
+  name: ムクバード
+  no: '397'
+  a: '75'
+  d: '40'
+  h: '55'
+ムクホーク: !ruby/object:Info
+  s: '100'
+  b: '70'
+  c: '50'
+  name: ムクホーク
+  no: '398'
+  a: '120'
+  d: '60'
+  h: '85'
+ビッパ: !ruby/object:Info
+  s: '31'
+  b: '40'
+  c: '35'
+  name: ビッパ
+  no: '399'
+  a: '45'
+  d: '40'
+  h: '59'
+ビーダル: !ruby/object:Info
+  s: '71'
+  b: '60'
+  c: '55'
+  name: ビーダル
+  no: '400'
+  a: '85'
+  d: '60'
+  h: '79'
+コロボーシ: !ruby/object:Info
+  s: '25'
+  b: '41'
+  c: '25'
+  name: コロボーシ
+  no: '401'
+  a: '25'
+  d: '41'
+  h: '37'
+コロトック: !ruby/object:Info
+  s: '65'
+  b: '51'
+  c: '55'
+  name: コロトック
+  no: '402'
+  a: '85'
+  d: '51'
+  h: '77'
+コリンク: !ruby/object:Info
+  s: '45'
+  b: '34'
+  c: '40'
+  name: コリンク
+  no: '403'
+  a: '65'
+  d: '34'
+  h: '45'
+ルクシオ: !ruby/object:Info
+  s: '60'
+  b: '49'
+  c: '60'
+  name: ルクシオ
+  no: '404'
+  a: '85'
+  d: '49'
+  h: '60'
+レントラー: !ruby/object:Info
+  s: '70'
+  b: '79'
+  c: '95'
+  name: レントラー
+  no: '405'
+  a: '120'
+  d: '79'
+  h: '80'
+スボミー: !ruby/object:Info
+  s: '55'
+  b: '35'
+  c: '50'
+  name: スボミー
+  no: '406'
+  a: '30'
+  d: '70'
+  h: '40'
+ロズレイド: !ruby/object:Info
+  s: '90'
+  b: '65'
+  c: '125'
+  name: ロズレイド
+  no: '407'
+  a: '70'
+  d: '105'
+  h: '60'
+ズガイドス: !ruby/object:Info
+  s: '58'
+  b: '40'
+  c: '30'
+  name: ズガイドス
+  no: '408'
+  a: '125'
+  d: '30'
+  h: '67'
+ラムパルド: !ruby/object:Info
+  s: '58'
+  b: '60'
+  c: '65'
+  name: ラムパルド
+  no: '409'
+  a: '165'
+  d: '50'
+  h: '97'
+タテトプス: !ruby/object:Info
+  s: '30'
+  b: '118'
+  c: '42'
+  name: タテトプス
+  no: '410'
+  a: '42'
+  d: '88'
+  h: '30'
+トリデプス: !ruby/object:Info
+  s: '30'
+  b: '168'
+  c: '47'
+  name: トリデプス
+  no: '411'
+  a: '52'
+  d: '138'
+  h: '60'
+ミノムッチ: !ruby/object:Info
+  s: '36'
+  b: '45'
+  c: '29'
+  name: ミノムッチ
+  no: '412'
+  a: '29'
+  d: '45'
+  h: '40'
+ミノマダム(くさきのミノ): !ruby/object:Info
+  s: '36'
+  b: '85'
+  c: '79'
+  name: ミノマダム(くさきのミノ)
+  no: '413'
+  a: '59'
+  d: '105'
+  h: '60'
+ミノマダム(すなちのミノ): !ruby/object:Info
+  s: '36'
+  b: '105'
+  c: '59'
+  name: ミノマダム(すなちのミノ)
+  no: '413'
+  a: '79'
+  d: '85'
+  h: '60'
+ミノマダム(ゴミのミノ): !ruby/object:Info
+  s: '36'
+  b: '95'
+  c: '69'
+  name: ミノマダム(ゴミのミノ)
+  no: '413'
+  a: '69'
+  d: '95'
+  h: '60'
+ガーメイル: !ruby/object:Info
+  s: '66'
+  b: '50'
+  c: '94'
+  name: ガーメイル
+  no: '414'
+  a: '94'
+  d: '50'
+  h: '70'
+ミツハニー: !ruby/object:Info
+  s: '70'
+  b: '42'
+  c: '30'
+  name: ミツハニー
+  no: '415'
+  a: '30'
+  d: '42'
+  h: '30'
+ビークイン: !ruby/object:Info
+  s: '40'
+  b: '102'
+  c: '80'
+  name: ビークイン
+  no: '416'
+  a: '80'
+  d: '102'
+  h: '70'
+パチリス: !ruby/object:Info
+  s: '95'
+  b: '70'
+  c: '45'
+  name: パチリス
+  no: '417'
+  a: '45'
+  d: '90'
+  h: '60'
+ブイゼル: !ruby/object:Info
+  s: '85'
+  b: '35'
+  c: '60'
+  name: ブイゼル
+  no: '418'
+  a: '65'
+  d: '30'
+  h: '55'
+フローゼル: !ruby/object:Info
+  s: '115'
+  b: '55'
+  c: '85'
+  name: フローゼル
+  no: '419'
+  a: '105'
+  d: '50'
+  h: '85'
+チェリンボ: !ruby/object:Info
+  s: '35'
+  b: '45'
+  c: '62'
+  name: チェリンボ
+  no: '420'
+  a: '35'
+  d: '53'
+  h: '45'
+チェリム: !ruby/object:Info
+  s: '85'
+  b: '70'
+  c: '87'
+  name: チェリム
+  no: '421'
+  a: '60'
+  d: '78'
+  h: '70'
+カラナクシ: !ruby/object:Info
+  s: '34'
+  b: '48'
+  c: '57'
+  name: カラナクシ
+  no: '422'
+  a: '48'
+  d: '62'
+  h: '76'
+トリトドン: !ruby/object:Info
+  s: '39'
+  b: '68'
+  c: '92'
+  name: トリトドン
+  no: '423'
+  a: '83'
+  d: '82'
+  h: '111'
+エテボース: !ruby/object:Info
+  s: '115'
+  b: '66'
+  c: '60'
+  name: エテボース
+  no: '424'
+  a: '100'
+  d: '66'
+  h: '75'
+フワンテ: !ruby/object:Info
+  s: '70'
+  b: '34'
+  c: '60'
+  name: フワンテ
+  no: '425'
+  a: '50'
+  d: '44'
+  h: '90'
+フワライド: !ruby/object:Info
+  s: '80'
+  b: '44'
+  c: '90'
+  name: フワライド
+  no: '426'
+  a: '80'
+  d: '54'
+  h: '150'
+ミミロル: !ruby/object:Info
+  s: '85'
+  b: '44'
+  c: '44'
+  name: ミミロル
+  no: '427'
+  a: '66'
+  d: '56'
+  h: '55'
+ミミロップ: !ruby/object:Info
+  s: '105'
+  b: '84'
+  c: '54'
+  name: ミミロップ
+  no: '428'
+  a: '76'
+  d: '96'
+  h: '65'
+ムウマージ: !ruby/object:Info
+  s: '105'
+  b: '60'
+  c: '105'
+  name: ムウマージ
+  no: '429'
+  a: '60'
+  d: '105'
+  h: '60'
+ドンカラス: !ruby/object:Info
+  s: '71'
+  b: '52'
+  c: '105'
+  name: ドンカラス
+  no: '430'
+  a: '125'
+  d: '52'
+  h: '100'
+ニャルマー: !ruby/object:Info
+  s: '85'
+  b: '42'
+  c: '42'
+  name: ニャルマー
+  no: '431'
+  a: '55'
+  d: '37'
+  h: '49'
+ブニャット: !ruby/object:Info
+  s: '112'
+  b: '64'
+  c: '64'
+  name: ブニャット
+  no: '432'
+  a: '82'
+  d: '59'
+  h: '71'
+リーシャン: !ruby/object:Info
+  s: '45'
+  b: '50'
+  c: '65'
+  name: リーシャン
+  no: '433'
+  a: '30'
+  d: '50'
+  h: '45'
+スカンプー: !ruby/object:Info
+  s: '74'
+  b: '47'
+  c: '41'
+  name: スカンプー
+  no: '434'
+  a: '63'
+  d: '41'
+  h: '63'
+スカタンク: !ruby/object:Info
+  s: '84'
+  b: '67'
+  c: '71'
+  name: スカタンク
+  no: '435'
+  a: '93'
+  d: '61'
+  h: '103'
+ドーミラー: !ruby/object:Info
+  s: '23'
+  b: '86'
+  c: '24'
+  name: ドーミラー
+  no: '436'
+  a: '24'
+  d: '86'
+  h: '57'
+ドータクン: !ruby/object:Info
+  s: '33'
+  b: '116'
+  c: '79'
+  name: ドータクン
+  no: '437'
+  a: '89'
+  d: '116'
+  h: '67'
+ウソハチ: !ruby/object:Info
+  s: '10'
+  b: '95'
+  c: '10'
+  name: ウソハチ
+  no: '438'
+  a: '80'
+  d: '45'
+  h: '50'
+マネネ: !ruby/object:Info
+  s: '60'
+  b: '45'
+  c: '70'
+  name: マネネ
+  no: '439'
+  a: '25'
+  d: '90'
+  h: '20'
+ピンプク: !ruby/object:Info
+  s: '30'
+  b: '5'
+  c: '15'
+  name: ピンプク
+  no: '440'
+  a: '5'
+  d: '65'
+  h: '100'
+ペラップ: !ruby/object:Info
+  s: '91'
+  b: '45'
+  c: '92'
+  name: ペラップ
+  no: '441'
+  a: '65'
+  d: '42'
+  h: '76'
+ミカルゲ: !ruby/object:Info
+  s: '35'
+  b: '108'
+  c: '92'
+  name: ミカルゲ
+  no: '442'
+  a: '92'
+  d: '108'
+  h: '50'
+フカマル: !ruby/object:Info
+  s: '42'
+  b: '45'
+  c: '40'
+  name: フカマル
+  no: '443'
+  a: '70'
+  d: '45'
+  h: '58'
+ガバイト: !ruby/object:Info
+  s: '82'
+  b: '65'
+  c: '50'
+  name: ガバイト
+  no: '444'
+  a: '90'
+  d: '55'
+  h: '68'
+ガブリアス: !ruby/object:Info
+  s: '102'
+  b: '95'
+  c: '80'
+  name: ガブリアス
+  no: '445'
+  a: '130'
+  d: '85'
+  h: '108'
+メガガブリアス: !ruby/object:Info
+  s: '92'
+  b: '115'
+  c: '120'
+  name: メガガブリアス
+  no: '445'
+  a: '170'
+  d: '95'
+  h: '108'
+ゴンベ: !ruby/object:Info
+  s: '5'
+  b: '40'
+  c: '40'
+  name: ゴンベ
+  no: '446'
+  a: '85'
+  d: '85'
+  h: '135'
+リオル: !ruby/object:Info
+  s: '60'
+  b: '40'
+  c: '35'
+  name: リオル
+  no: '447'
+  a: '70'
+  d: '40'
+  h: '40'
+ルカリオ: !ruby/object:Info
+  s: '90'
+  b: '70'
+  c: '115'
+  name: ルカリオ
+  no: '448'
+  a: '110'
+  d: '70'
+  h: '70'
+メガルカリオ: !ruby/object:Info
+  s: '112'
+  b: '88'
+  c: '140'
+  name: メガルカリオ
+  no: '448'
+  a: '145'
+  d: '70'
+  h: '70'
+ヒポポタス: !ruby/object:Info
+  s: '32'
+  b: '78'
+  c: '38'
+  name: ヒポポタス
+  no: '449'
+  a: '72'
+  d: '42'
+  h: '68'
+カバルドン: !ruby/object:Info
+  s: '47'
+  b: '118'
+  c: '68'
+  name: カバルドン
+  no: '450'
+  a: '112'
+  d: '72'
+  h: '108'
+スコルピ: !ruby/object:Info
+  s: '65'
+  b: '90'
+  c: '30'
+  name: スコルピ
+  no: '451'
+  a: '50'
+  d: '55'
+  h: '40'
+ドラピオン: !ruby/object:Info
+  s: '95'
+  b: '110'
+  c: '60'
+  name: ドラピオン
+  no: '452'
+  a: '90'
+  d: '75'
+  h: '70'
+グレッグル: !ruby/object:Info
+  s: '50'
+  b: '40'
+  c: '61'
+  name: グレッグル
+  no: '453'
+  a: '61'
+  d: '40'
+  h: '48'
+ドクロッグ: !ruby/object:Info
+  s: '85'
+  b: '65'
+  c: '86'
+  name: ドクロッグ
+  no: '454'
+  a: '106'
+  d: '65'
+  h: '83'
+マスキッパ: !ruby/object:Info
+  s: '46'
+  b: '72'
+  c: '90'
+  name: マスキッパ
+  no: '455'
+  a: '100'
+  d: '72'
+  h: '74'
+ケイコウオ: !ruby/object:Info
+  s: '66'
+  b: '56'
+  c: '49'
+  name: ケイコウオ
+  no: '456'
+  a: '49'
+  d: '61'
+  h: '49'
+ネオラント: !ruby/object:Info
+  s: '91'
+  b: '76'
+  c: '69'
+  name: ネオラント
+  no: '457'
+  a: '69'
+  d: '86'
+  h: '69'
+タマンタ: !ruby/object:Info
+  s: '50'
+  b: '50'
+  c: '60'
+  name: タマンタ
+  no: '458'
+  a: '20'
+  d: '120'
+  h: '45'
+ユキカブリ: !ruby/object:Info
+  s: '40'
+  b: '50'
+  c: '62'
+  name: ユキカブリ
+  no: '459'
+  a: '62'
+  d: '60'
+  h: '60'
+ユキノオー: !ruby/object:Info
+  s: '60'
+  b: '75'
+  c: '92'
+  name: ユキノオー
+  no: '460'
+  a: '92'
+  d: '85'
+  h: '90'
+メガユキノオー: !ruby/object:Info
+  s: '30'
+  b: '105'
+  c: '132'
+  name: メガユキノオー
+  no: '460'
+  a: '132'
+  d: '105'
+  h: '90'
+マニューラ: !ruby/object:Info
+  s: '125'
+  b: '65'
+  c: '45'
+  name: マニューラ
+  no: '461'
+  a: '120'
+  d: '85'
+  h: '70'
+ジバコイル: !ruby/object:Info
+  s: '60'
+  b: '115'
+  c: '130'
+  name: ジバコイル
+  no: '462'
+  a: '70'
+  d: '90'
+  h: '70'
+ベロベルト: !ruby/object:Info
+  s: '50'
+  b: '95'
+  c: '80'
+  name: ベロベルト
+  no: '463'
+  a: '85'
+  d: '95'
+  h: '110'
+ドサイドン: !ruby/object:Info
+  s: '40'
+  b: '130'
+  c: '55'
+  name: ドサイドン
+  no: '464'
+  a: '140'
+  d: '55'
+  h: '115'
+モジャンボ: !ruby/object:Info
+  s: '50'
+  b: '125'
+  c: '110'
+  name: モジャンボ
+  no: '465'
+  a: '100'
+  d: '50'
+  h: '100'
+エレキブル: !ruby/object:Info
+  s: '95'
+  b: '67'
+  c: '95'
+  name: エレキブル
+  no: '466'
+  a: '123'
+  d: '85'
+  h: '75'
+ブーバーン: !ruby/object:Info
+  s: '83'
+  b: '67'
+  c: '125'
+  name: ブーバーン
+  no: '467'
+  a: '95'
+  d: '95'
+  h: '75'
+トゲキッス: !ruby/object:Info
+  s: '80'
+  b: '95'
+  c: '120'
+  name: トゲキッス
+  no: '468'
+  a: '50'
+  d: '115'
+  h: '85'
+メガヤンマ: !ruby/object:Info
+  s: '95'
+  b: '86'
+  c: '116'
+  name: メガヤンマ
+  no: '469'
+  a: '76'
+  d: '56'
+  h: '86'
+リーフィア: !ruby/object:Info
+  s: '95'
+  b: '130'
+  c: '60'
+  name: リーフィア
+  no: '470'
+  a: '110'
+  d: '65'
+  h: '65'
+グレイシア: !ruby/object:Info
+  s: '65'
+  b: '110'
+  c: '130'
+  name: グレイシア
+  no: '471'
+  a: '60'
+  d: '95'
+  h: '65'
+グライオン: !ruby/object:Info
+  s: '95'
+  b: '125'
+  c: '45'
+  name: グライオン
+  no: '472'
+  a: '95'
+  d: '75'
+  h: '75'
+マンムー: !ruby/object:Info
+  s: '80'
+  b: '80'
+  c: '70'
+  name: マンムー
+  no: '473'
+  a: '130'
+  d: '60'
+  h: '110'
+ポリゴンZ: !ruby/object:Info
+  s: '90'
+  b: '70'
+  c: '135'
+  name: ポリゴンZ
+  no: '474'
+  a: '80'
+  d: '75'
+  h: '85'
+エルレイド: !ruby/object:Info
+  s: '80'
+  b: '65'
+  c: '65'
+  name: エルレイド
+  no: '475'
+  a: '125'
+  d: '115'
+  h: '68'
+ダイノーズ: !ruby/object:Info
+  s: '40'
+  b: '145'
+  c: '75'
+  name: ダイノーズ
+  no: '476'
+  a: '55'
+  d: '150'
+  h: '60'
+ヨノワール: !ruby/object:Info
+  s: '45'
+  b: '135'
+  c: '65'
+  name: ヨノワール
+  no: '477'
+  a: '100'
+  d: '135'
+  h: '45'
+ユキメノコ: !ruby/object:Info
+  s: '110'
+  b: '70'
+  c: '80'
+  name: ユキメノコ
+  no: '478'
+  a: '80'
+  d: '70'
+  h: '70'
+ロトム(基本): !ruby/object:Info
+  s: '91'
+  b: '77'
+  c: '95'
+  name: ロトム(基本)
+  no: '479'
+  a: '50'
+  d: '77'
+  h: '50'
+ロトム(ヒート): !ruby/object:Info
+  s: '86'
+  b: '107'
+  c: '105'
+  name: ロトム(ヒート)
+  no: '479'
+  a: '65'
+  d: '107'
+  h: '50'
+ロトム(ウォッシュ): !ruby/object:Info
+  s: '86'
+  b: '107'
+  c: '105'
+  name: ロトム(ウォッシュ)
+  no: '479'
+  a: '65'
+  d: '107'
+  h: '50'
+ロトム(フロスト): !ruby/object:Info
+  s: '86'
+  b: '107'
+  c: '105'
+  name: ロトム(フロスト)
+  no: '479'
+  a: '65'
+  d: '107'
+  h: '50'
+ロトム(スピン): !ruby/object:Info
+  s: '86'
+  b: '107'
+  c: '105'
+  name: ロトム(スピン)
+  no: '479'
+  a: '65'
+  d: '107'
+  h: '50'
+ロトム(カット): !ruby/object:Info
+  s: '86'
+  b: '107'
+  c: '105'
+  name: ロトム(カット)
+  no: '479'
+  a: '65'
+  d: '107'
+  h: '50'
+ユクシー: !ruby/object:Info
+  s: '95'
+  b: '130'
+  c: '75'
+  name: ユクシー
+  no: '480'
+  a: '75'
+  d: '130'
+  h: '75'
+エムリット: !ruby/object:Info
+  s: '80'
+  b: '105'
+  c: '105'
+  name: エムリット
+  no: '481'
+  a: '105'
+  d: '105'
+  h: '80'
+アグノム: !ruby/object:Info
+  s: '115'
+  b: '70'
+  c: '125'
+  name: アグノム
+  no: '482'
+  a: '125'
+  d: '70'
+  h: '75'
+ディアルガ: !ruby/object:Info
+  s: '90'
+  b: '120'
+  c: '150'
+  name: ディアルガ
+  no: '483'
+  a: '120'
+  d: '100'
+  h: '100'
+パルキア: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '150'
+  name: パルキア
+  no: '484'
+  a: '120'
+  d: '120'
+  h: '90'
+ヒードラン: !ruby/object:Info
+  s: '77'
+  b: '106'
+  c: '130'
+  name: ヒードラン
+  no: '485'
+  a: '90'
+  d: '106'
+  h: '91'
+レジギガス: !ruby/object:Info
+  s: '100'
+  b: '110'
+  c: '80'
+  name: レジギガス
+  no: '486'
+  a: '160'
+  d: '110'
+  h: '110'
+ギラティナ(アナザーフォルム): !ruby/object:Info
+  s: '90'
+  b: '120'
+  c: '100'
+  name: ギラティナ(アナザーフォルム)
+  no: '487'
+  a: '100'
+  d: '120'
+  h: '150'
+ギラティナ(オリジンフォルム): !ruby/object:Info
+  s: '90'
+  b: '100'
+  c: '120'
+  name: ギラティナ(オリジンフォルム)
+  no: '487'
+  a: '120'
+  d: '100'
+  h: '150'
+クレセリア: !ruby/object:Info
+  s: '85'
+  b: '120'
+  c: '75'
+  name: クレセリア
+  no: '488'
+  a: '70'
+  d: '130'
+  h: '120'
+フィオネ: !ruby/object:Info
+  s: '80'
+  b: '80'
+  c: '80'
+  name: フィオネ
+  no: '489'
+  a: '80'
+  d: '80'
+  h: '80'
+マナフィ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: マナフィ
+  no: '490'
+  a: '100'
+  d: '100'
+  h: '100'
+ダークライ: !ruby/object:Info
+  s: '125'
+  b: '90'
+  c: '135'
+  name: ダークライ
+  no: '491'
+  a: '90'
+  d: '90'
+  h: '70'
+シェイミ(ランドフォルム): !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: シェイミ(ランドフォルム)
+  no: '492'
+  a: '100'
+  d: '100'
+  h: '100'
+シェイミ(スカイフォルム): !ruby/object:Info
+  s: '127'
+  b: '75'
+  c: '120'
+  name: シェイミ(スカイフォルム)
+  no: '492'
+  a: '103'
+  d: '75'
+  h: '100'
+アルセウス: !ruby/object:Info
+  s: '120'
+  b: '120'
+  c: '120'
+  name: アルセウス
+  no: '493'
+  a: '120'
+  d: '120'
+  h: '120'
+ビクティニ: !ruby/object:Info
+  s: '100'
+  b: '100'
+  c: '100'
+  name: ビクティニ
+  no: '494'
+  a: '100'
+  d: '100'
+  h: '100'
+ツタージャ: !ruby/object:Info
+  s: '63'
+  b: '55'
+  c: '45'
+  name: ツタージャ
+  no: '495'
+  a: '45'
+  d: '55'
+  h: '45'
+ジャノビー: !ruby/object:Info
+  s: '83'
+  b: '75'
+  c: '60'
+  name: ジャノビー
+  no: '496'
+  a: '60'
+  d: '75'
+  h: '60'
+ジャローダ: !ruby/object:Info
+  s: '113'
+  b: '95'
+  c: '75'
+  name: ジャローダ
+  no: '497'
+  a: '75'
+  d: '95'
+  h: '75'
+ポカブ: !ruby/object:Info
+  s: '45'
+  b: '45'
+  c: '45'
+  name: ポカブ
+  no: '498'
+  a: '63'
+  d: '45'
+  h: '65'
+チャオブー: !ruby/object:Info
+  s: '55'
+  b: '55'
+  c: '70'
+  name: チャオブー
+  no: '499'
+  a: '93'
+  d: '55'
+  h: '90'
+エンブオー: !ruby/object:Info
+  s: '65'
+  b: '65'
+  c: '100'
+  name: エンブオー
+  no: '500'
+  a: '123'
+  d: '65'
+  h: '110'
+ミジュマル: !ruby/object:Info
+  s: '45'
+  b: '45'
+  c: '63'
+  name: ミジュマル
+  no: '501'
+  a: '55'
+  d: '45'
+  h: '55'
+フタチマル: !ruby/object:Info
+  s: '60'
+  b: '60'
+  c: '83'
+  name: フタチマル
+  no: '502'
+  a: '75'
+  d: '60'
+  h: '75'
+ダイケンキ: !ruby/object:Info
+  s: '70'
+  b: '85'
+  c: '108'
+  name: ダイケンキ
+  no: '503'
+  a: '100'
+  d: '70'
+  h: '95'
+ミネズミ: !ruby/object:Info
+  s: '42'
+  b: '39'
+  c: '35'
+  name: ミネズミ
+  no: '504'
+  a: '55'
+  d: '39'
+  h: '45'
+ミルホッグ: !ruby/object:Info
+  s: '77'
+  b: '69'
+  c: '60'
+  name: ミルホッグ
+  no: '505'
+  a: '85'
+  d: '69'
+  h: '60'
+ヨーテリー: !ruby/object:Info
+  s: '55'
+  b: '45'
+  c: '25'
+  name: ヨーテリー
+  no: '506'
+  a: '60'
+  d: '45'
+  h: '45'
+ハーデリア: !ruby/object:Info
+  s: '60'
+  b: '65'
+  c: '35'
+  name: ハーデリア
+  no: '507'
+  a: '80'
+  d: '65'
+  h: '65'
+ムーランド: !ruby/object:Info
+  s: '80'
+  b: '90'
+  c: '45'
+  name: ムーランド
+  no: '508'
+  a: '110'
+  d: '90'
+  h: '85'
+チョロネコ: !ruby/object:Info
+  s: '66'
+  b: '37'
+  c: '50'
+  name: チョロネコ
+  no: '509'
+  a: '50'
+  d: '37'
+  h: '41'
+レパルダス: !ruby/object:Info
+  s: '106'
+  b: '50'
+  c: '88'
+  name: レパルダス
+  no: '510'
+  a: '88'
+  d: '50'
+  h: '64'
+ヤナップ: !ruby/object:Info
+  s: '64'
+  b: '48'
+  c: '53'
+  name: ヤナップ
+  no: '511'
+  a: '53'
+  d: '48'
+  h: '50'
+ヤナッキー: !ruby/object:Info
+  s: '101'
+  b: '63'
+  c: '98'
+  name: ヤナッキー
+  no: '512'
+  a: '98'
+  d: '63'
+  h: '75'
+バオップ: !ruby/object:Info
+  s: '64'
+  b: '48'
+  c: '53'
+  name: バオップ
+  no: '513'
+  a: '53'
+  d: '48'
+  h: '50'
+バオッキー: !ruby/object:Info
+  s: '101'
+  b: '63'
+  c: '98'
+  name: バオッキー
+  no: '514'
+  a: '98'
+  d: '63'
+  h: '75'
+ヒヤップ: !ruby/object:Info
+  s: '64'
+  b: '48'
+  c: '53'
+  name: ヒヤップ
+  no: '515'
+  a: '53'
+  d: '48'
+  h: '50'
+ヒヤッキー: !ruby/object:Info
+  s: '101'
+  b: '63'
+  c: '98'
+  name: ヒヤッキー
+  no: '516'
+  a: '98'
+  d: '63'
+  h: '75'
+ムンナ: !ruby/object:Info
+  s: '24'
+  b: '45'
+  c: '67'
+  name: ムンナ
+  no: '517'
+  a: '25'
+  d: '55'
+  h: '76'
+ムシャーナ: !ruby/object:Info
+  s: '29'
+  b: '85'
+  c: '107'
+  name: ムシャーナ
+  no: '518'
+  a: '55'
+  d: '95'
+  h: '116'
+マメパト: !ruby/object:Info
+  s: '43'
+  b: '50'
+  c: '36'
+  name: マメパト
+  no: '519'
+  a: '55'
+  d: '30'
+  h: '50'
+ハトーボー: !ruby/object:Info
+  s: '65'
+  b: '62'
+  c: '50'
+  name: ハトーボー
+  no: '520'
+  a: '77'
+  d: '42'
+  h: '62'
+ケンホロウ: !ruby/object:Info
+  s: '93'
+  b: '80'
+  c: '65'
+  name: ケンホロウ
+  no: '521'
+  a: '115'
+  d: '55'
+  h: '80'
+シママ: !ruby/object:Info
+  s: '76'
+  b: '32'
+  c: '50'
+  name: シママ
+  no: '522'
+  a: '60'
+  d: '32'
+  h: '45'
+ゼブライカ: !ruby/object:Info
+  s: '116'
+  b: '63'
+  c: '80'
+  name: ゼブライカ
+  no: '523'
+  a: '100'
+  d: '63'
+  h: '75'
+ダンゴロ: !ruby/object:Info
+  s: '15'
+  b: '85'
+  c: '25'
+  name: ダンゴロ
+  no: '524'
+  a: '75'
+  d: '25'
+  h: '55'
+ガントル: !ruby/object:Info
+  s: '20'
+  b: '105'
+  c: '50'
+  name: ガントル
+  no: '525'
+  a: '105'
+  d: '40'
+  h: '70'
+ギガイアス: !ruby/object:Info
+  s: '25'
+  b: '130'
+  c: '60'
+  name: ギガイアス
+  no: '526'
+  a: '135'
+  d: '80'
+  h: '85'
+コロモリ: !ruby/object:Info
+  s: '72'
+  b: '43'
+  c: '55'
+  name: コロモリ
+  no: '527'
+  a: '45'
+  d: '43'
+  h: '55'
+ココロモリ: !ruby/object:Info
+  s: '114'
+  b: '55'
+  c: '77'
+  name: ココロモリ
+  no: '528'
+  a: '57'
+  d: '55'
+  h: '67'
+モグリュー: !ruby/object:Info
+  s: '68'
+  b: '40'
+  c: '30'
+  name: モグリュー
+  no: '529'
+  a: '85'
+  d: '45'
+  h: '60'
+ドリュウズ: !ruby/object:Info
+  s: '88'
+  b: '60'
+  c: '50'
+  name: ドリュウズ
+  no: '530'
+  a: '135'
+  d: '65'
+  h: '110'
+タブンネ: !ruby/object:Info
+  s: '50'
+  b: '86'
+  c: '60'
+  name: タブンネ
+  no: '531'
+  a: '60'
+  d: '86'
+  h: '103'
+ドッコラー: !ruby/object:Info
+  s: '35'
+  b: '55'
+  c: '25'
+  name: ドッコラー
+  no: '532'
+  a: '80'
+  d: '35'
+  h: '75'
+ドテッコツ: !ruby/object:Info
+  s: '40'
+  b: '85'
+  c: '40'
+  name: ドテッコツ
+  no: '533'
+  a: '105'
+  d: '50'
+  h: '85'
+ローブシン: !ruby/object:Info
+  s: '45'
+  b: '95'
+  c: '55'
+  name: ローブシン
+  no: '534'
+  a: '140'
+  d: '65'
+  h: '105'
+オタマロ: !ruby/object:Info
+  s: '64'
+  b: '40'
+  c: '50'
+  name: オタマロ
+  no: '535'
+  a: '50'
+  d: '40'
+  h: '50'
+ガマガル: !ruby/object:Info
+  s: '69'
+  b: '55'
+  c: '65'
+  name: ガマガル
+  no: '536'
+  a: '65'
+  d: '55'
+  h: '75'
+ガマゲロゲ: !ruby/object:Info
+  s: '74'
+  b: '75'
+  c: '85'
+  name: ガマゲロゲ
+  no: '537'
+  a: '95'
+  d: '75'
+  h: '105'
+ナゲキ: !ruby/object:Info
+  s: '45'
+  b: '85'
+  c: '30'
+  name: ナゲキ
+  no: '538'
+  a: '100'
+  d: '85'
+  h: '120'
+ダゲキ: !ruby/object:Info
+  s: '85'
+  b: '75'
+  c: '30'
+  name: ダゲキ
+  no: '539'
+  a: '125'
+  d: '75'
+  h: '75'
+クルミル: !ruby/object:Info
+  s: '42'
+  b: '70'
+  c: '40'
+  name: クルミル
+  no: '540'
+  a: '53'
+  d: '60'
+  h: '45'
+クルマユ: !ruby/object:Info
+  s: '42'
+  b: '90'
+  c: '50'
+  name: クルマユ
+  no: '541'
+  a: '63'
+  d: '80'
+  h: '55'
+ハハコモリ: !ruby/object:Info
+  s: '92'
+  b: '80'
+  c: '70'
+  name: ハハコモリ
+  no: '542'
+  a: '103'
+  d: '80'
+  h: '75'
+フシデ: !ruby/object:Info
+  s: '57'
+  b: '59'
+  c: '30'
+  name: フシデ
+  no: '543'
+  a: '45'
+  d: '39'
+  h: '30'
+ホイーガ: !ruby/object:Info
+  s: '47'
+  b: '99'
+  c: '40'
+  name: ホイーガ
+  no: '544'
+  a: '55'
+  d: '79'
+  h: '40'
+ペンドラー: !ruby/object:Info
+  s: '112'
+  b: '89'
+  c: '55'
+  name: ペンドラー
+  no: '545'
+  a: '100'
+  d: '69'
+  h: '60'
+モンメン: !ruby/object:Info
+  s: '66'
+  b: '60'
+  c: '37'
+  name: モンメン
+  no: '546'
+  a: '27'
+  d: '50'
+  h: '40'
+エルフーン: !ruby/object:Info
+  s: '116'
+  b: '85'
+  c: '77'
+  name: エルフーン
+  no: '547'
+  a: '67'
+  d: '75'
+  h: '60'
+チュリネ: !ruby/object:Info
+  s: '30'
+  b: '50'
+  c: '70'
+  name: チュリネ
+  no: '548'
+  a: '35'
+  d: '50'
+  h: '45'
+ドレディア: !ruby/object:Info
+  s: '90'
+  b: '75'
+  c: '110'
+  name: ドレディア
+  no: '549'
+  a: '60'
+  d: '75'
+  h: '70'
+バスラオ(あかすじ): !ruby/object:Info
+  s: '98'
+  b: '65'
+  c: '80'
+  name: バスラオ(あかすじ)
+  no: '550'
+  a: '92'
+  d: '55'
+  h: '70'
+バスラオ(あおすじ): !ruby/object:Info
+  s: '98'
+  b: '65'
+  c: '80'
+  name: バスラオ(あおすじ)
+  no: '550'
+  a: '92'
+  d: '55'
+  h: '70'
+メグロコ: !ruby/object:Info
+  s: '65'
+  b: '35'
+  c: '35'
+  name: メグロコ
+  no: '551'
+  a: '72'
+  d: '35'
+  h: '50'
+ワルビル: !ruby/object:Info
+  s: '74'
+  b: '45'
+  c: '45'
+  name: ワルビル
+  no: '552'
+  a: '82'
+  d: '45'
+  h: '60'
+ワルビアル: !ruby/object:Info
+  s: '92'
+  b: '80'
+  c: '65'
+  name: ワルビアル
+  no: '553'
+  a: '117'
+  d: '70'
+  h: '95'
+ダルマッカ: !ruby/object:Info
+  s: '50'
+  b: '45'
+  c: '15'
+  name: ダルマッカ
+  no: '554'
+  a: '90'
+  d: '45'
+  h: '70'
+ヒヒダルマ(ノーマルモード): !ruby/object:Info
+  s: '95'
+  b: '55'
+  c: '30'
+  name: ヒヒダルマ(ノーマルモード)
+  no: '555'
+  a: '140'
+  d: '55'
+  h: '105'
+ヒヒダルマ(ダルマモード): !ruby/object:Info
+  s: '55'
+  b: '105'
+  c: '140'
+  name: ヒヒダルマ(ダルマモード)
+  no: '555'
+  a: '30'
+  d: '105'
+  h: '105'
+マラカッチ: !ruby/object:Info
+  s: '60'
+  b: '67'
+  c: '106'
+  name: マラカッチ
+  no: '556'
+  a: '86'
+  d: '67'
+  h: '75'
+イシズマイ: !ruby/object:Info
+  s: '55'
+  b: '85'
+  c: '35'
+  name: イシズマイ
+  no: '557'
+  a: '65'
+  d: '35'
+  h: '50'
+イワパレス: !ruby/object:Info
+  s: '45'
+  b: '125'
+  c: '65'
+  name: イワパレス
+  no: '558'
+  a: '95'
+  d: '75'
+  h: '70'
+ズルッグ: !ruby/object:Info
+  s: '48'
+  b: '70'
+  c: '35'
+  name: ズルッグ
+  no: '559'
+  a: '75'
+  d: '70'
+  h: '50'
+ズルズキン: !ruby/object:Info
+  s: '58'
+  b: '115'
+  c: '45'
+  name: ズルズキン
+  no: '560'
+  a: '90'
+  d: '115'
+  h: '65'
+シンボラー: !ruby/object:Info
+  s: '97'
+  b: '80'
+  c: '103'
+  name: シンボラー
+  no: '561'
+  a: '58'
+  d: '80'
+  h: '72'
+デスマス: !ruby/object:Info
+  s: '30'
+  b: '85'
+  c: '55'
+  name: デスマス
+  no: '562'
+  a: '30'
+  d: '65'
+  h: '38'
+デスカーン: !ruby/object:Info
+  s: '30'
+  b: '145'
+  c: '95'
+  name: デスカーン
+  no: '563'
+  a: '50'
+  d: '105'
+  h: '58'
+プロトーガ: !ruby/object:Info
+  s: '22'
+  b: '103'
+  c: '53'
+  name: プロトーガ
+  no: '564'
+  a: '78'
+  d: '45'
+  h: '54'
+アバゴーラ: !ruby/object:Info
+  s: '32'
+  b: '133'
+  c: '83'
+  name: アバゴーラ
+  no: '565'
+  a: '108'
+  d: '65'
+  h: '74'
+アーケン: !ruby/object:Info
+  s: '70'
+  b: '45'
+  c: '74'
+  name: アーケン
+  no: '566'
+  a: '112'
+  d: '45'
+  h: '55'
+アーケオス: !ruby/object:Info
+  s: '110'
+  b: '65'
+  c: '112'
+  name: アーケオス
+  no: '567'
+  a: '140'
+  d: '65'
+  h: '75'
+ヤブクロン: !ruby/object:Info
+  s: '65'
+  b: '62'
+  c: '40'
+  name: ヤブクロン
+  no: '568'
+  a: '50'
+  d: '62'
+  h: '50'
+ダストダス: !ruby/object:Info
+  s: '75'
+  b: '82'
+  c: '60'
+  name: ダストダス
+  no: '569'
+  a: '95'
+  d: '82'
+  h: '80'
+ゾロア: !ruby/object:Info
+  s: '65'
+  b: '40'
+  c: '80'
+  name: ゾロア
+  no: '570'
+  a: '65'
+  d: '40'
+  h: '40'
+ゾロアーク: !ruby/object:Info
+  s: '105'
+  b: '60'
+  c: '120'
+  name: ゾロアーク
+  no: '571'
+  a: '105'
+  d: '60'
+  h: '60'
+チラーミィ: !ruby/object:Info
+  s: '75'
+  b: '40'
+  c: '40'
+  name: チラーミィ
+  no: '572'
+  a: '50'
+  d: '40'
+  h: '55'
+チラチーノ: !ruby/object:Info
+  s: '115'
+  b: '60'
+  c: '65'
+  name: チラチーノ
+  no: '573'
+  a: '95'
+  d: '60'
+  h: '75'
+ゴチム: !ruby/object:Info
+  s: '45'
+  b: '50'
+  c: '55'
+  name: ゴチム
+  no: '574'
+  a: '30'
+  d: '65'
+  h: '45'
+ゴチミル: !ruby/object:Info
+  s: '55'
+  b: '70'
+  c: '75'
+  name: ゴチミル
+  no: '575'
+  a: '45'
+  d: '85'
+  h: '60'
+ゴチルゼル: !ruby/object:Info
+  s: '65'
+  b: '95'
+  c: '95'
+  name: ゴチルゼル
+  no: '576'
+  a: '55'
+  d: '110'
+  h: '70'
+ユニラン: !ruby/object:Info
+  s: '20'
+  b: '40'
+  c: '105'
+  name: ユニラン
+  no: '577'
+  a: '30'
+  d: '50'
+  h: '45'
+ダブラン: !ruby/object:Info
+  s: '30'
+  b: '50'
+  c: '125'
+  name: ダブラン
+  no: '578'
+  a: '40'
+  d: '60'
+  h: '65'
+ランクルス: !ruby/object:Info
+  s: '30'
+  b: '75'
+  c: '125'
+  name: ランクルス
+  no: '579'
+  a: '65'
+  d: '85'
+  h: '110'
+コアルヒー: !ruby/object:Info
+  s: '55'
+  b: '50'
+  c: '44'
+  name: コアルヒー
+  no: '580'
+  a: '44'
+  d: '50'
+  h: '62'
+スワンナ: !ruby/object:Info
+  s: '98'
+  b: '63'
+  c: '87'
+  name: スワンナ
+  no: '581'
+  a: '87'
+  d: '63'
+  h: '75'
+バニプッチ: !ruby/object:Info
+  s: '44'
+  b: '50'
+  c: '65'
+  name: バニプッチ
+  no: '582'
+  a: '50'
+  d: '60'
+  h: '36'
+バニリッチ: !ruby/object:Info
+  s: '59'
+  b: '65'
+  c: '80'
+  name: バニリッチ
+  no: '583'
+  a: '65'
+  d: '75'
+  h: '51'
+バイバニラ: !ruby/object:Info
+  s: '79'
+  b: '85'
+  c: '110'
+  name: バイバニラ
+  no: '584'
+  a: '95'
+  d: '95'
+  h: '71'
+シキジカ: !ruby/object:Info
+  s: '75'
+  b: '50'
+  c: '40'
+  name: シキジカ
+  no: '585'
+  a: '60'
+  d: '50'
+  h: '60'
+メブキジカ: !ruby/object:Info
+  s: '95'
+  b: '70'
+  c: '60'
+  name: メブキジカ
+  no: '586'
+  a: '100'
+  d: '70'
+  h: '80'
+エモンガ: !ruby/object:Info
+  s: '103'
+  b: '60'
+  c: '75'
+  name: エモンガ
+  no: '587'
+  a: '75'
+  d: '60'
+  h: '55'
+カブルモ: !ruby/object:Info
+  s: '60'
+  b: '45'
+  c: '40'
+  name: カブルモ
+  no: '588'
+  a: '75'
+  d: '45'
+  h: '50'
+シュバルゴ: !ruby/object:Info
+  s: '20'
+  b: '105'
+  c: '60'
+  name: シュバルゴ
+  no: '589'
+  a: '135'
+  d: '105'
+  h: '70'
+タマゲタケ: !ruby/object:Info
+  s: '15'
+  b: '45'
+  c: '55'
+  name: タマゲタケ
+  no: '590'
+  a: '55'
+  d: '55'
+  h: '69'
+モロバレル: !ruby/object:Info
+  s: '30'
+  b: '70'
+  c: '85'
+  name: モロバレル
+  no: '591'
+  a: '85'
+  d: '80'
+  h: '114'
+プルリル: !ruby/object:Info
+  s: '40'
+  b: '50'
+  c: '65'
+  name: プルリル
+  no: '592'
+  a: '40'
+  d: '85'
+  h: '55'
+ブルンゲル: !ruby/object:Info
+  s: '60'
+  b: '70'
+  c: '85'
+  name: ブルンゲル
+  no: '593'
+  a: '60'
+  d: '105'
+  h: '100'
+ママンボウ: !ruby/object:Info
+  s: '65'
+  b: '80'
+  c: '40'
+  name: ママンボウ
+  no: '594'
+  a: '75'
+  d: '45'
+  h: '165'
+バチュル: !ruby/object:Info
+  s: '65'
+  b: '50'
+  c: '57'
+  name: バチュル
+  no: '595'
+  a: '47'
+  d: '50'
+  h: '50'
+デンチュラ: !ruby/object:Info
+  s: '108'
+  b: '60'
+  c: '97'
+  name: デンチュラ
+  no: '596'
+  a: '77'
+  d: '60'
+  h: '70'
+テッシード: !ruby/object:Info
+  s: '10'
+  b: '91'
+  c: '24'
+  name: テッシード
+  no: '597'
+  a: '50'
+  d: '86'
+  h: '44'
+ナットレイ: !ruby/object:Info
+  s: '20'
+  b: '131'
+  c: '54'
+  name: ナットレイ
+  no: '598'
+  a: '94'
+  d: '116'
+  h: '74'
+ギアル: !ruby/object:Info
+  s: '30'
+  b: '70'
+  c: '45'
+  name: ギアル
+  no: '599'
+  a: '55'
+  d: '60'
+  h: '40'
+ギギアル: !ruby/object:Info
+  s: '50'
+  b: '95'
+  c: '70'
+  name: ギギアル
+  no: '600'
+  a: '80'
+  d: '85'
+  h: '60'
+ギギギアル: !ruby/object:Info
+  s: '90'
+  b: '115'
+  c: '70'
+  name: ギギギアル
+  no: '601'
+  a: '100'
+  d: '85'
+  h: '60'
+シビシラス: !ruby/object:Info
+  s: '60'
+  b: '40'
+  c: '45'
+  name: シビシラス
+  no: '602'
+  a: '55'
+  d: '40'
+  h: '35'
+シビビール: !ruby/object:Info
+  s: '40'
+  b: '70'
+  c: '75'
+  name: シビビール
+  no: '603'
+  a: '85'
+  d: '70'
+  h: '65'
+シビルドン: !ruby/object:Info
+  s: '50'
+  b: '80'
+  c: '105'
+  name: シビルドン
+  no: '604'
+  a: '115'
+  d: '80'
+  h: '85'
+リグレー: !ruby/object:Info
+  s: '30'
+  b: '55'
+  c: '85'
+  name: リグレー
+  no: '605'
+  a: '55'
+  d: '55'
+  h: '55'
+オーベム: !ruby/object:Info
+  s: '40'
+  b: '75'
+  c: '125'
+  name: オーベム
+  no: '606'
+  a: '75'
+  d: '95'
+  h: '75'
+ヒトモシ: !ruby/object:Info
+  s: '20'
+  b: '55'
+  c: '65'
+  name: ヒトモシ
+  no: '607'
+  a: '30'
+  d: '55'
+  h: '50'
+ランプラー: !ruby/object:Info
+  s: '55'
+  b: '60'
+  c: '95'
+  name: ランプラー
+  no: '608'
+  a: '40'
+  d: '60'
+  h: '60'
+シャンデラ: !ruby/object:Info
+  s: '80'
+  b: '90'
+  c: '145'
+  name: シャンデラ
+  no: '609'
+  a: '55'
+  d: '90'
+  h: '60'
+キバゴ: !ruby/object:Info
+  s: '57'
+  b: '60'
+  c: '30'
+  name: キバゴ
+  no: '610'
+  a: '87'
+  d: '40'
+  h: '46'
+オノンド: !ruby/object:Info
+  s: '67'
+  b: '70'
+  c: '40'
+  name: オノンド
+  no: '611'
+  a: '117'
+  d: '50'
+  h: '66'
+オノノクス: !ruby/object:Info
+  s: '97'
+  b: '90'
+  c: '60'
+  name: オノノクス
+  no: '612'
+  a: '147'
+  d: '70'
+  h: '76'
+クマシュン: !ruby/object:Info
+  s: '40'
+  b: '40'
+  c: '60'
+  name: クマシュン
+  no: '613'
+  a: '70'
+  d: '40'
+  h: '55'
+ツンベアー: !ruby/object:Info
+  s: '50'
+  b: '80'
+  c: '70'
+  name: ツンベアー
+  no: '614'
+  a: '110'
+  d: '80'
+  h: '95'
+フリージオ: !ruby/object:Info
+  s: '105'
+  b: '30'
+  c: '95'
+  name: フリージオ
+  no: '615'
+  a: '50'
+  d: '135'
+  h: '70'
+チョボマキ: !ruby/object:Info
+  s: '25'
+  b: '85'
+  c: '40'
+  name: チョボマキ
+  no: '616'
+  a: '40'
+  d: '65'
+  h: '50'
+アギルダー: !ruby/object:Info
+  s: '145'
+  b: '40'
+  c: '100'
+  name: アギルダー
+  no: '617'
+  a: '70'
+  d: '60'
+  h: '80'
+マッギョ: !ruby/object:Info
+  s: '32'
+  b: '84'
+  c: '81'
+  name: マッギョ
+  no: '618'
+  a: '66'
+  d: '99'
+  h: '109'
+コジョフー: !ruby/object:Info
+  s: '65'
+  b: '50'
+  c: '55'
+  name: コジョフー
+  no: '619'
+  a: '85'
+  d: '50'
+  h: '45'
+コジョンド: !ruby/object:Info
+  s: '105'
+  b: '60'
+  c: '95'
+  name: コジョンド
+  no: '620'
+  a: '125'
+  d: '60'
+  h: '65'
+クリムガン: !ruby/object:Info
+  s: '48'
+  b: '90'
+  c: '60'
+  name: クリムガン
+  no: '621'
+  a: '120'
+  d: '90'
+  h: '77'
+ゴビット: !ruby/object:Info
+  s: '35'
+  b: '50'
+  c: '35'
+  name: ゴビット
+  no: '622'
+  a: '74'
+  d: '50'
+  h: '59'
+ゴルーグ: !ruby/object:Info
+  s: '55'
+  b: '80'
+  c: '55'
+  name: ゴルーグ
+  no: '623'
+  a: '124'
+  d: '80'
+  h: '89'
+コマタナ: !ruby/object:Info
+  s: '60'
+  b: '70'
+  c: '40'
+  name: コマタナ
+  no: '624'
+  a: '85'
+  d: '40'
+  h: '45'
+キリキザン: !ruby/object:Info
+  s: '70'
+  b: '100'
+  c: '60'
+  name: キリキザン
+  no: '625'
+  a: '125'
+  d: '70'
+  h: '65'
+バッフロン: !ruby/object:Info
+  s: '55'
+  b: '95'
+  c: '40'
+  name: バッフロン
+  no: '626'
+  a: '110'
+  d: '95'
+  h: '95'
+ワシボン: !ruby/object:Info
+  s: '60'
+  b: '50'
+  c: '37'
+  name: ワシボン
+  no: '627'
+  a: '83'
+  d: '50'
+  h: '70'
+ウォーグル: !ruby/object:Info
+  s: '80'
+  b: '75'
+  c: '57'
+  name: ウォーグル
+  no: '628'
+  a: '123'
+  d: '75'
+  h: '100'
+バルチャイ: !ruby/object:Info
+  s: '60'
+  b: '75'
+  c: '45'
+  name: バルチャイ
+  no: '629'
+  a: '55'
+  d: '65'
+  h: '70'
+バルジーナ: !ruby/object:Info
+  s: '80'
+  b: '105'
+  c: '55'
+  name: バルジーナ
+  no: '630'
+  a: '65'
+  d: '95'
+  h: '110'
+クイタラン: !ruby/object:Info
+  s: '65'
+  b: '66'
+  c: '105'
+  name: クイタラン
+  no: '631'
+  a: '97'
+  d: '66'
+  h: '85'
+アイアント: !ruby/object:Info
+  s: '109'
+  b: '112'
+  c: '48'
+  name: アイアント
+  no: '632'
+  a: '109'
+  d: '48'
+  h: '58'
+モノズ: !ruby/object:Info
+  s: '38'
+  b: '50'
+  c: '45'
+  name: モノズ
+  no: '633'
+  a: '65'
+  d: '50'
+  h: '52'
+ジヘッド: !ruby/object:Info
+  s: '58'
+  b: '70'
+  c: '65'
+  name: ジヘッド
+  no: '634'
+  a: '85'
+  d: '70'
+  h: '72'
+サザンドラ: !ruby/object:Info
+  s: '98'
+  b: '90'
+  c: '125'
+  name: サザンドラ
+  no: '635'
+  a: '105'
+  d: '90'
+  h: '92'
+メラルバ: !ruby/object:Info
+  s: '60'
+  b: '55'
+  c: '50'
+  name: メラルバ
+  no: '636'
+  a: '85'
+  d: '55'
+  h: '55'
+ウルガモス: !ruby/object:Info
+  s: '100'
+  b: '65'
+  c: '135'
+  name: ウルガモス
+  no: '637'
+  a: '60'
+  d: '105'
+  h: '85'
+コバルオン: !ruby/object:Info
+  s: '108'
+  b: '129'
+  c: '90'
+  name: コバルオン
+  no: '638'
+  a: '90'
+  d: '72'
+  h: '91'
+テラキオン: !ruby/object:Info
+  s: '108'
+  b: '90'
+  c: '72'
+  name: テラキオン
+  no: '639'
+  a: '129'
+  d: '90'
+  h: '91'
+ビリジオン: !ruby/object:Info
+  s: '108'
+  b: '72'
+  c: '90'
+  name: ビリジオン
+  no: '640'
+  a: '90'
+  d: '129'
+  h: '91'
+トルネロス(けしんフォルム): !ruby/object:Info
+  s: '111'
+  b: '70'
+  c: '125'
+  name: トルネロス(けしんフォルム)
+  no: '641'
+  a: '115'
+  d: '80'
+  h: '79'
+トルネロス(れいじゅうフォルム): !ruby/object:Info
+  s: '121'
+  b: '80'
+  c: '110'
+  name: トルネロス(れいじゅうフォルム)
+  no: '641'
+  a: '100'
+  d: '90'
+  h: '79'
+ボルトロス(けしんフォルム): !ruby/object:Info
+  s: '111'
+  b: '70'
+  c: '125'
+  name: ボルトロス(けしんフォルム)
+  no: '642'
+  a: '115'
+  d: '80'
+  h: '79'
+ボルトロス(れいじゅうフォルム): !ruby/object:Info
+  s: '101'
+  b: '70'
+  c: '145'
+  name: ボルトロス(れいじゅうフォルム)
+  no: '642'
+  a: '105'
+  d: '80'
+  h: '79'
+レシラム: !ruby/object:Info
+  s: '90'
+  b: '100'
+  c: '150'
+  name: レシラム
+  no: '643'
+  a: '120'
+  d: '120'
+  h: '100'
+ゼクロム: !ruby/object:Info
+  s: '90'
+  b: '120'
+  c: '120'
+  name: ゼクロム
+  no: '644'
+  a: '150'
+  d: '100'
+  h: '100'
+ランドロス(けしんフォルム): !ruby/object:Info
+  s: '101'
+  b: '90'
+  c: '115'
+  name: ランドロス(けしんフォルム)
+  no: '645'
+  a: '125'
+  d: '80'
+  h: '89'
+ランドロス(れいじゅうフォルム): !ruby/object:Info
+  s: '91'
+  b: '90'
+  c: '105'
+  name: ランドロス(れいじゅうフォルム)
+  no: '645'
+  a: '145'
+  d: '80'
+  h: '89'
+キュレム(通常): !ruby/object:Info
+  s: '95'
+  b: '90'
+  c: '130'
+  name: キュレム(通常)
+  no: '646'
+  a: '130'
+  d: '90'
+  h: '125'
+キュレム(ホワイトキュレム): !ruby/object:Info
+  s: '95'
+  b: '90'
+  c: '170'
+  name: キュレム(ホワイトキュレム)
+  no: '646'
+  a: '120'
+  d: '100'
+  h: '125'
+キュレム(ブラックキュレム): !ruby/object:Info
+  s: '95'
+  b: '100'
+  c: '120'
+  name: キュレム(ブラックキュレム)
+  no: '646'
+  a: '170'
+  d: '90'
+  h: '125'
+ケルディオ(いつものすがた): !ruby/object:Info
+  s: '108'
+  b: '90'
+  c: '129'
+  name: ケルディオ(いつものすがた)
+  no: '647'
+  a: '72'
+  d: '90'
+  h: '91'
+ケルディオ(かくごのすがた): !ruby/object:Info
+  s: '108'
+  b: '90'
+  c: '129'
+  name: ケルディオ(かくごのすがた)
+  no: '647'
+  a: '72'
+  d: '90'
+  h: '91'
+メロエッタ(ボイスフォルム): !ruby/object:Info
+  s: '90'
+  b: '77'
+  c: '128'
+  name: メロエッタ(ボイスフォルム)
+  no: '648'
+  a: '77'
+  d: '128'
+  h: '100'
+メロエッタ(ステップフォルム): !ruby/object:Info
+  s: '128'
+  b: '90'
+  c: '77'
+  name: メロエッタ(ステップフォルム)
+  no: '648'
+  a: '128'
+  d: '77'
+  h: '100'
+ゲノセクト: !ruby/object:Info
+  s: '99'
+  b: '95'
+  c: '120'
+  name: ゲノセクト
+  no: '649'
+  a: '120'
+  d: '95'
+  h: '71'
+ハリマロン: !ruby/object:Info
+  s: '38'
+  b: '65'
+  c: '48'
+  name: ハリマロン
+  no: '650'
+  a: '61'
+  d: '45'
+  h: '56'
+ハリボーグ: !ruby/object:Info
+  s: '57'
+  b: '95'
+  c: '56'
+  name: ハリボーグ
+  no: '651'
+  a: '78'
+  d: '58'
+  h: '61'
+ブリガロン: !ruby/object:Info
+  s: '64'
+  b: '122'
+  c: '74'
+  name: ブリガロン
+  no: '652'
+  a: '107'
+  d: '75'
+  h: '88'
+フォッコ: !ruby/object:Info
+  s: '60'
+  b: '40'
+  c: '62'
+  name: フォッコ
+  no: '653'
+  a: '45'
+  d: '60'
+  h: '40'
+テールナー: !ruby/object:Info
+  s: '73'
+  b: '58'
+  c: '90'
+  name: テールナー
+  no: '654'
+  a: '59'
+  d: '70'
+  h: '59'
+マフォクシー: !ruby/object:Info
+  s: '104'
+  b: '72'
+  c: '114'
+  name: マフォクシー
+  no: '655'
+  a: '69'
+  d: '100'
+  h: '75'
+ケロマツ: !ruby/object:Info
+  s: '71'
+  b: '40'
+  c: '62'
+  name: ケロマツ
+  no: '656'
+  a: '56'
+  d: '44'
+  h: '41'
+ゲコガシラ: !ruby/object:Info
+  s: '97'
+  b: '52'
+  c: '83'
+  name: ゲコガシラ
+  no: '657'
+  a: '63'
+  d: '56'
+  h: '54'
+ゲッコウガ: !ruby/object:Info
+  s: '122'
+  b: '67'
+  c: '103'
+  name: ゲッコウガ
+  no: '658'
+  a: '95'
+  d: '71'
+  h: '72'
+ホルビー: !ruby/object:Info
+  s: '57'
+  b: '38'
+  c: '32'
+  name: ホルビー
+  no: '659'
+  a: '36'
+  d: '36'
+  h: '38'
+ホルード: !ruby/object:Info
+  s: '78'
+  b: '77'
+  c: '50'
+  name: ホルード
+  no: '660'
+  a: '56'
+  d: '77'
+  h: '85'
+ヤヤコマ: !ruby/object:Info
+  s: '62'
+  b: '43'
+  c: '40'
+  name: ヤヤコマ
+  no: '661'
+  a: '50'
+  d: '38'
+  h: '45'
+ヒノヤコマ: !ruby/object:Info
+  s: '84'
+  b: '55'
+  c: '56'
+  name: ヒノヤコマ
+  no: '662'
+  a: '73'
+  d: '52'
+  h: '62'
+ファイアロー: !ruby/object:Info
+  s: '126'
+  b: '71'
+  c: '74'
+  name: ファイアロー
+  no: '663'
+  a: '81'
+  d: '69'
+  h: '78'
+コフキムシ: !ruby/object:Info
+  s: '35'
+  b: '40'
+  c: '27'
+  name: コフキムシ
+  no: '664'
+  a: '35'
+  d: '25'
+  h: '38'
+コフーライ: !ruby/object:Info
+  s: '29'
+  b: '60'
+  c: '27'
+  name: コフーライ
+  no: '665'
+  a: '22'
+  d: '30'
+  h: '45'
+ビビヨン: !ruby/object:Info
+  s: '89'
+  b: '50'
+  c: '90'
+  name: ビビヨン
+  no: '666'
+  a: '52'
+  d: '50'
+  h: '80'
+シシコ: !ruby/object:Info
+  s: '72'
+  b: '58'
+  c: '73'
+  name: シシコ
+  no: '667'
+  a: '50'
+  d: '54'
+  h: '62'
+カエンジシ: !ruby/object:Info
+  s: '106'
+  b: '72'
+  c: '109'
+  name: カエンジシ
+  no: '668'
+  a: '68'
+  d: '66'
+  h: '86'
+フラベベ: !ruby/object:Info
+  s: '42'
+  b: '39'
+  c: '61'
+  name: フラベベ
+  no: '669'
+  a: '38'
+  d: '79'
+  h: '44'
+フラエッテ: !ruby/object:Info
+  s: '52'
+  b: '47'
+  c: '75'
+  name: フラエッテ
+  no: '670'
+  a: '45'
+  d: '98'
+  h: '54'
+フラージェス: !ruby/object:Info
+  s: '75'
+  b: '68'
+  c: '112'
+  name: フラージェス
+  no: '671'
+  a: '65'
+  d: '154'
+  h: '78'
+メェークル: !ruby/object:Info
+  s: '52'
+  b: '48'
+  c: '62'
+  name: メェークル
+  no: '672'
+  a: '65'
+  d: '57'
+  h: '66'
+ゴーゴート: !ruby/object:Info
+  s: '68'
+  b: '62'
+  c: '97'
+  name: ゴーゴート
+  no: '673'
+  a: '100'
+  d: '81'
+  h: '123'
+ヤンチャム: !ruby/object:Info
+  s: '43'
+  b: '62'
+  c: '46'
+  name: ヤンチャム
+  no: '674'
+  a: '82'
+  d: '48'
+  h: '67'
+ゴロンダ: !ruby/object:Info
+  s: '58'
+  b: '78'
+  c: '69'
+  name: ゴロンダ
+  no: '675'
+  a: '124'
+  d: '71'
+  h: '95'
+トリミアン: !ruby/object:Info
+  s: '102'
+  b: '60'
+  c: '65'
+  name: トリミアン
+  no: '676'
+  a: '80'
+  d: '90'
+  h: '75'
+ニャスパー: !ruby/object:Info
+  s: '68'
+  b: '54'
+  c: '63'
+  name: ニャスパー
+  no: '677'
+  a: '48'
+  d: '60'
+  h: '62'
+ニャオニクス(オスの姿): !ruby/object:Info
+  s: '104'
+  b: '76'
+  c: '83'
+  name: ニャオニクス(オスの姿)
+  no: '678'
+  a: '48'
+  d: '81'
+  h: '74'
+ニャオニクス(メスの姿): !ruby/object:Info
+  s: '104'
+  b: '76'
+  c: '83'
+  name: ニャオニクス(メスの姿)
+  no: '678'
+  a: '48'
+  d: '81'
+  h: '74'
+ヒトツキ: !ruby/object:Info
+  s: '28'
+  b: '100'
+  c: '35'
+  name: ヒトツキ
+  no: '679'
+  a: '80'
+  d: '37'
+  h: '45'
+ニダンギル: !ruby/object:Info
+  s: '35'
+  b: '150'
+  c: '45'
+  name: ニダンギル
+  no: '680'
+  a: '110'
+  d: '49'
+  h: '59'
+ギルガルド(シールドフォルム): !ruby/object:Info
+  s: '60'
+  b: '150'
+  c: '50'
+  name: ギルガルド(シールドフォルム)
+  no: '681'
+  a: '50'
+  d: '150'
+  h: '60'
+ギルガルド(ブレードフォルム): !ruby/object:Info
+  s: '60'
+  b: '50'
+  c: '150'
+  name: ギルガルド(ブレードフォルム)
+  no: '681'
+  a: '150'
+  d: '50'
+  h: '60'
+シュシュプ: !ruby/object:Info
+  s: '23'
+  b: '60'
+  c: '63'
+  name: シュシュプ
+  no: '682'
+  a: '52'
+  d: '65'
+  h: '78'
+フレフワン: !ruby/object:Info
+  s: '29'
+  b: '72'
+  c: '99'
+  name: フレフワン
+  no: '683'
+  a: '72'
+  d: '89'
+  h: '101'
+ペロッパフ: !ruby/object:Info
+  s: '49'
+  b: '66'
+  c: '59'
+  name: ペロッパフ
+  no: '684'
+  a: '48'
+  d: '57'
+  h: '62'
+ペロリーム: !ruby/object:Info
+  s: '72'
+  b: '86'
+  c: '85'
+  name: ペロリーム
+  no: '685'
+  a: '80'
+  d: '75'
+  h: '82'
+マーイーカ: !ruby/object:Info
+  s: '45'
+  b: '53'
+  c: '37'
+  name: マーイーカ
+  no: '686'
+  a: '54'
+  d: '46'
+  h: '53'
+カラマネロ: !ruby/object:Info
+  s: '73'
+  b: '88'
+  c: '68'
+  name: カラマネロ
+  no: '687'
+  a: '92'
+  d: '75'
+  h: '86'
+カメテテ: !ruby/object:Info
+  s: '50'
+  b: '67'
+  c: '39'
+  name: カメテテ
+  no: '688'
+  a: '52'
+  d: '56'
+  h: '42'
+ガメノデス: !ruby/object:Info
+  s: '68'
+  b: '115'
+  c: '54'
+  name: ガメノデス
+  no: '689'
+  a: '105'
+  d: '86'
+  h: '72'
+クズモー: !ruby/object:Info
+  s: '30'
+  b: '60'
+  c: '60'
+  name: クズモー
+  no: '690'
+  a: '60'
+  d: '60'
+  h: '50'
+ドラミドロ: !ruby/object:Info
+  s: '44'
+  b: '90'
+  c: '97'
+  name: ドラミドロ
+  no: '691'
+  a: '75'
+  d: '123'
+  h: '65'
+ウデッポウ: !ruby/object:Info
+  s: '44'
+  b: '62'
+  c: '58'
+  name: ウデッポウ
+  no: '692'
+  a: '53'
+  d: '63'
+  h: '50'
+ブロスター: !ruby/object:Info
+  s: '59'
+  b: '88'
+  c: '120'
+  name: ブロスター
+  no: '693'
+  a: '73'
+  d: '89'
+  h: '71'
+エリキテル: !ruby/object:Info
+  s: '70'
+  b: '33'
+  c: '61'
+  name: エリキテル
+  no: '694'
+  a: '38'
+  d: '43'
+  h: '44'
+エレザード: !ruby/object:Info
+  s: '109'
+  b: '52'
+  c: '109'
+  name: エレザード
+  no: '695'
+  a: '55'
+  d: '94'
+  h: '62'
+チゴラス: !ruby/object:Info
+  s: '48'
+  b: '77'
+  c: '45'
+  name: チゴラス
+  no: '696'
+  a: '89'
+  d: '45'
+  h: '58'
+ガチゴラス: !ruby/object:Info
+  s: '71'
+  b: '119'
+  c: '69'
+  name: ガチゴラス
+  no: '697'
+  a: '121'
+  d: '59'
+  h: '82'
+アマルス: !ruby/object:Info
+  s: '46'
+  b: '50'
+  c: '67'
+  name: アマルス
+  no: '698'
+  a: '59'
+  d: '63'
+  h: '77'
+アマルルガ: !ruby/object:Info
+  s: '58'
+  b: '72'
+  c: '99'
+  name: アマルルガ
+  no: '699'
+  a: '77'
+  d: '92'
+  h: '123'
+ニンフィア: !ruby/object:Info
+  s: '60'
+  b: '65'
+  c: '110'
+  name: ニンフィア
+  no: '700'
+  a: '65'
+  d: '130'
+  h: '95'
+ルチャブル: !ruby/object:Info
+  s: '118'
+  b: '75'
+  c: '74'
+  name: ルチャブル
+  no: '701'
+  a: '92'
+  d: '63'
+  h: '78'
+デデンネ: !ruby/object:Info
+  s: '101'
+  b: '57'
+  c: '81'
+  name: デデンネ
+  no: '702'
+  a: '58'
+  d: '67'
+  h: '67'
+メレシー: !ruby/object:Info
+  s: '50'
+  b: '150'
+  c: '50'
+  name: メレシー
+  no: '703'
+  a: '50'
+  d: '150'
+  h: '50'
+ヌメラ: !ruby/object:Info
+  s: '40'
+  b: '35'
+  c: '55'
+  name: ヌメラ
+  no: '704'
+  a: '50'
+  d: '75'
+  h: '45'
+ヌメイル: !ruby/object:Info
+  s: '60'
+  b: '53'
+  c: '83'
+  name: ヌメイル
+  no: '705'
+  a: '75'
+  d: '113'
+  h: '68'
+ヌメルゴン: !ruby/object:Info
+  s: '80'
+  b: '70'
+  c: '110'
+  name: ヌメルゴン
+  no: '706'
+  a: '100'
+  d: '150'
+  h: '90'
+クレッフィ: !ruby/object:Info
+  s: '75'
+  b: '91'
+  c: '80'
+  name: クレッフィ
+  no: '707'
+  a: '80'
+  d: '87'
+  h: '57'
+ボクレー: !ruby/object:Info
+  s: '38'
+  b: '48'
+  c: '50'
+  name: ボクレー
+  no: '708'
+  a: '70'
+  d: '60'
+  h: '43'
+オーロット: !ruby/object:Info
+  s: '56'
+  b: '76'
+  c: '65'
+  name: オーロット
+  no: '709'
+  a: '110'
+  d: '82'
+  h: '85'
+バケッチャ(ふつうのサイズ): !ruby/object:Info
+  s: '51'
+  b: '70'
+  c: '44'
+  name: バケッチャ(ふつうのサイズ)
+  no: '710'
+  a: '66'
+  d: '55'
+  h: '49'
+バケッチャ(ちいさいサイズ): !ruby/object:Info
+  s: '56'
+  b: '70'
+  c: '44'
+  name: バケッチャ(ちいさいサイズ)
+  no: '710'
+  a: '66'
+  d: '55'
+  h: '44'
+バケッチャ(おおきいサイズ): !ruby/object:Info
+  s: '46'
+  b: '70'
+  c: '44'
+  name: バケッチャ(おおきいサイズ)
+  no: '710'
+  a: '66'
+  d: '55'
+  h: '54'
+バケッチャ(とくだいサイズ): !ruby/object:Info
+  s: '41'
+  b: '70'
+  c: '44'
+  name: バケッチャ(とくだいサイズ)
+  no: '710'
+  a: '66'
+  d: '55'
+  h: '59'
+パンプジン(ふつうのサイズ): !ruby/object:Info
+  s: '84'
+  b: '122'
+  c: '58'
+  name: パンプジン(ふつうのサイズ)
+  no: '711'
+  a: '90'
+  d: '75'
+  h: '65'
+パンプジン(ちいさいサイズ): !ruby/object:Info
+  s: '99'
+  b: '122'
+  c: '58'
+  name: パンプジン(ちいさいサイズ)
+  no: '711'
+  a: '85'
+  d: '75'
+  h: '55'
+パンプジン(おおきいサイズ): !ruby/object:Info
+  s: '69'
+  b: '122'
+  c: '58'
+  name: パンプジン(おおきいサイズ)
+  no: '711'
+  a: '95'
+  d: '75'
+  h: '75'
+パンプジン(とくだいサイズ): !ruby/object:Info
+  s: '54'
+  b: '122'
+  c: '58'
+  name: パンプジン(とくだいサイズ)
+  no: '711'
+  a: '100'
+  d: '75'
+  h: '85'
+カチコール: !ruby/object:Info
+  s: '28'
+  b: '85'
+  c: '32'
+  name: カチコール
+  no: '712'
+  a: '69'
+  d: '35'
+  h: '55'
+クレベース: !ruby/object:Info
+  s: '28'
+  b: '184'
+  c: '44'
+  name: クレベース
+  no: '713'
+  a: '117'
+  d: '46'
+  h: '95'
+オンバット: !ruby/object:Info
+  s: '55'
+  b: '35'
+  c: '45'
+  name: オンバット
+  no: '714'
+  a: '30'
+  d: '40'
+  h: '40'
+オンバーン: !ruby/object:Info
+  s: '123'
+  b: '80'
+  c: '97'
+  name: オンバーン
+  no: '715'
+  a: '70'
+  d: '80'
+  h: '85'
+ゼルネアス: !ruby/object:Info
+  s: '99'
+  b: '95'
+  c: '131'
+  name: ゼルネアス
+  no: '716'
+  a: '131'
+  d: '98'
+  h: '126'
+イベルタル: !ruby/object:Info
+  s: '99'
+  b: '95'
+  c: '131'
+  name: イベルタル
+  no: '717'
+  a: '131'
+  d: '98'
+  h: '126'
+ジガルデ: !ruby/object:Info
+  s: '95'
+  b: '121'
+  c: '81'
+  name: ジガルデ
+  no: '718'
+  a: '100'
+  d: '95'
+  h: '108'
